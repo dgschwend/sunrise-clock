@@ -1,4 +1,8 @@
-sunrise-clock
+Sunrise Clock
 =============
 
-Sunrise Wakeup Alarm Clock
+A beautiful DIY alarm clock that uses slowly increasing light and sound to wake you up.
+
+Built for an Arduino Pro Mini using the fantastic Arduino Che Cosa framework [http://github.com/mikaelpatel/Cosa].
+
+Schematics and Details to follow.
