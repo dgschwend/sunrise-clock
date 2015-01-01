@@ -1,0 +1,2941 @@
+dSystem: onIRmsg in [IdleState]
+[10:48:23.5] System: Transition [IdleState] -> [SoundMenu]
+[10:48:23.6] System: onIRmsg in [SoundMenu]
+[10:48:23.6]     Set level to 1, volume to 50
+[10:48:24.4] dSystem: Transition [SoundMenu] -> [IdleState]
+[10:48:24.6] The Time is 10:48
+[10:48:24.7] System: onIRmsg in [IdleState]
+[10:48:24.7] System: Transition [IdleState] -> [SoundMenu]
+[10:48:24.8] System: onIRmsg in [SoundMenu]
+[10:48:24.8]     Set level to 2, volume to 51
+[10:48:24.9] dSystem: onIRmsg in [SoundMenu]
+[10:48:25.1]     Set level to 3, volume to 52
+[10:48:25.1] dddSystem: onIRmsg in [SoundMenu]
+[10:48:25.3]     Set level to 4, volume to 53
+[10:48:25.4] dSystem: onIRmsg din [SoundMenu]
+[10:48:25.5]     Set level to 5, volume to 54
+[10:48:25.5] System: onaIRmsg in [SoundMenu]
+[10:48:25.6]     Set level to 6, volume to 55
+[10:48:25.7] System: onIRmsg in [SoundMenu]
+[10:48:25.7]     Set level to 7, volume to 56
+[10:48:25.8] System: onIRmsg in [SoundMenu]
+[10:48:25.9]     Set level to 8, volume to 57
+[10:48:26.0] System: onIRmsg in [SoundMenu]
+[10:48:26.0]     Set level to 7, volume to 56
+[10:48:26.1] aaaSystem: onIRmsg in [SoundMenu]
+[10:48:26.3]     Set level to 6, volume to 55
+[10:48:26.4] aSystem: onIRmsg in [SoundMenu]
+[10:48:26.4]     Set alevel to 5, volume to 54
+[10:48:26.5] aSystem: onIRmsg in [SoundMenu]
+[10:48:26.5]  a   Set level to 4, volume to 53
+[10:48:26.7] System: onIRmsg in [SoundMenu]
+[10:48:26.7] a    Set level to 3, volume to 52
+[10:48:26.8] aSystem: onIRmsg in [SoundaMenu]
+[10:48:26.9]     Set level to 2, volume to 51
+[10:48:26.9] aSystem: onIRmsg in [SoundMenu]
+[10:48:27.0]     Set level to 1, volume to 50
+[10:48:27.1] aSystem: onIRmsg ina [SoundMenu]
+[10:48:27.1]     Set level to 0, volume to 0
+[10:48:27.2] System: onIRmsg in [SoundMenu]
+[10:48:27.3]     Set level to 0, volume to 0
+[10:48:27.3] System: onIRmsg in [SoundMenu]
+[10:48:27.4]     Set level to 0, volume to 0
+[10:48:27.5] System: onIRmsg in [SoundMenu]
+[10:48:27.5]     Set level to 0, volume to 0
+[10:48:27.7] System: onIRmsg in [SoundMenu]
+[10:48:27.7]     Set level to 0, volume to 0
+[10:48:27.8] System: onIRmsg in [SoundMenu]
+[10:48:27.8]     Set level to 0, volume to 0
+[10:48:27.9] System: onIRmsg in [SoundMenu]
+[10:48:27.9]     Set level to 0, volume to 0
+[10:48:29.3] System: Transition [SoundMenu] -> [IdleState]
+[10:48:29.3] The Time is 10:48
+[10:49:05.5] dSystem: onIRmsg in [IdleState]
+[10:49:05.5] System: Transition [IdleState] -> [SoundMenu]
+[10:49:05.6] System: onIRmsg in [SoundMenu]
+[10:49:05.6]     Set level to 1, volume to 50
+[10:49:05.8] dSystem: onIRmsg in [SoundMenu]
+[10:49:06.0]     Set level to 2, volume to 51
+[10:49:06.0] dSystem: onIRmsg in [SoundMenu]
+[10:49:06.2]     Set level to 3, volume to 52
+[10:49:06.3] ddSystem: onIRmsg in [SoundMenu]
+[10:49:06.5]     Set level to 4, volume to 53
+[10:49:06.6] System: onIRmsg in [SounddMenu]
+[10:49:06.7]     Set level to 5, volume to 54
+[10:49:06.7] System: onIRmsg in [SoundMenu]
+[10:49:06.8]     Set level to 6, volume to 55
+[10:49:06.9] ddSystem: onIRmsg in [SoundMenu]
+[10:49:07.1]     Set level to 7, volume to 56
+[10:49:07.2] System: onIRmsg in [SoundMenu]
+[10:49:07.2]     Set level to 8, volume to 57
+[10:49:07.3] wSystem: onIRmsg in [SoundMenu]
+[10:49:07.5] System: Transition [SoundMenu] -> [LightMenu]
+[10:49:07.6] System: onIRmsg in [LightMenu]
+[10:49:07.6]     Set light to 1/31
+[10:49:07.8] wSystem: onIRmsg in [LightMenu]
+[10:49:07.9]     Set light to 2/31
+[10:49:08.1] wwSywstem: onIRmsg in [LightMenu]
+[10:49:08.2]     Set light to 3/31
+[10:49:08.2] Syswtem: onIRmsg in [LightMenu]
+[10:49:08.3]     Set light to 4/31
+[10:49:08.3] Systemw: onIRmsg in [LightMenu]
+[10:49:08.3]     Set light to 5/31
+[10:49:08.3] System: onIRmsg in [LightMenu]
+[10:49:08.4]     Set light to 6/31
+[10:49:08.4] System: onIRwmsg in [LightMenu]
+[10:49:08.5]     Set light to 7/31
+[10:49:08.5] System: onIRmsg in [LwightMenu]
+[10:49:08.5]     Set light to 8/31
+[10:49:08.6] wSystem: onIRmsg in [LightMenu]
+[10:49:08.6]     Set ligwht to 9/31
+[10:49:08.7] System: onIRmsg in [LightMenu]
+[10:49:08.7]     Set light to 10/31
+[10:49:08.7] System: onIRmsg in [LightMenu]
+[10:49:08.7]     Set light wto 11/31
+[10:49:08.8] System: onIRmsg in [LightMenu]
+[10:49:08.8]     Set light to 12/w31
+[10:49:08.9] wSystem: onIRmsg in [LightMenu]
+[10:49:09.1]     Set light to 13/31
+[10:49:09.1] System: onIRmsg in [LightMenu]
+[10:49:09.1]     Set light to 14/31
+[10:49:09.7] wSystem: onIRmsg in [LightMenu]
+[10:49:09.9]     Set light to 15/31
+[10:49:11.2] System: Transition [LightMenu] -> [IdleState]
+[10:49:11.2] The Time is 10:49
+[10:49:11.3] The Time is 10:49
+
+[10:49:29.7] System: onIRmsg in [IdleState]
+
+[10:49:31.7] System: onIRmsg in [IdleState]
+[10:52:30.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:30.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:30.7] System: onIRmsg in [IdleState]
+[10:52:30.7] System: Transition [IdleState] -> [SoundMenu]
+[10:52:30.8] System: onIRmsg in [SoundMenu]
+[10:52:30.8]     Set level to 9, volume to 58
+[10:52:30.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:30.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:31.0] System: onIRmsg in [SoundMenu]
+[10:52:31.0]     Set level to 10, volume to 59
+[10:52:31.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:31.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:31.2] System: onIRmsg in [SoundMenu]
+[10:52:31.2]     Set level to 11, volume to 60
+[10:52:31.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:31.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:31.6] System: onIRmsg in [SoundMenu]
+[10:52:31.7]     Set level to 12, volume to 61
+[10:52:32.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:32.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:32.2] System: onIRmsg in [SoundMenu]
+[10:52:32.3]     Set level to 11, volume to 60
+[10:52:32.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:32.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:32.5] System: onIRmsg in [SoundMenu]
+[10:52:32.5]     Set level to 10, volume to 59
+[10:52:32.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:32.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:32.8] System: onIRmsg in [SoundMenu]
+[10:52:32.8]     Set level to 9, volume to 58
+[10:52:32.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:33.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:33.3] System: onIRmsg in [SoundMenu]
+[10:52:33.3]     Set level to 0, volume to 0
+[10:52:33.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:34.3] System: Transition [SoundMenu] -> [IdleState]
+[10:52:34.3] The Time is 10:52
+[10:52:55.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:55.8] System: onIRmsg in [IdleState]
+[10:52:55.8] System: Transition [IdleState] -> [AlarmMenu]
+[10:52:57.2] Alarm State:  on
+[10:52:57.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:57.2] Alarm State:    
+[10:52:57.5] Alarm State:  on
+[10:52:57.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:57.9] System: onIRmsg in [AlarmMenu]
+[10:52:58.0]     New Alarm: 07:00
+[10:52:58.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:58.1]     New Alarm: 07:00
+[10:52:58.6]     New Alarm: 07:00
+[10:52:59.2]     New Alarm: 07:00
+[10:52:59.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:52:59.7] System: onIRmsg in [AlarmMenu]
+[10:52:59.8]     New Alarm: 07:00
+[10:52:59.8]     New Alarm: 07:00
+[10:52:59.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:00.3]     New Alarm: 07:00
+[10:53:00.8]     New Alarm: 07:00
+[10:53:01.4]     New Alarm: 07:00
+[10:53:02.0]     New Alarm: 07:00
+[10:53:02.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:02.3] System: onIRmsg in [AlarmMenu]
+[10:53:02.4]     New Alarm: 08:00
+[10:53:02.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:02.5]     New Alarm: 08:00
+[10:53:02.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:02.7] System: onIRmsg in [AlarmMenu]
+[10:53:02.8]     New Alarm: 08:00
+[10:53:02.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:03.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:03.1] System: onIRmsg in [AlarmMenu]
+[10:53:03.1]     New Alarm: 08:00
+[10:53:03.1]     New Alarm: 08:00
+[10:53:03.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:03.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:03.4] System: onIRmsg in [AlarmMenu]
+[10:53:03.4]     New Alarm: 09:00
+[10:53:03.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:03.6]     New Alarm: 09:00
+[10:53:03.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:03.8] System: onIRmsg in [AlarmMenu]
+[10:53:03.9]     New Alarm: 09:00
+[10:53:03.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:04.2]     New Alarm: 09:00
+[10:53:04.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:04.4] System: onIRmsg in [AlarmMenu]
+[10:53:04.4]     New Alarm: 10:00
+[10:53:04.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:04.7]     New Alarm: 10:00
+[10:53:04.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:04.9] System: onIRmsg in [AlarmMenu]
+[10:53:04.9]     New Alarm: 11:00
+[10:53:05.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:05.3]     New Alarm: 11:00
+[10:53:05.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:05.7] System: onIRmsg in [AlarmMenu]
+[10:53:05.8]     New Alarm: 12:00
+[10:53:05.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:05.9]     New Alarm: 12:00
+[10:53:06.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:06.4] System: onIRmsg in [AlarmMenu]
+[10:53:06.4]     New Alarm: 11:00
+[10:53:06.5]     New Alarm: 11:00
+[10:53:06.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:06.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:07.0] System: onIRmsg in [AlarmMenu]
+[10:53:07.0]     New Alarm: 11:00
+[10:53:07.0]     New Alarm: 11:00
+[10:53:07.5]     New Alarm: 11:00
+[10:53:07.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:08.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[10:53:08.1] System: onIRmsg in [AlarmMenu]
+[10:53:08.1]     Save Alarm Settings 2116-76-132 11:00:01 ON
+[10:53:08.7] System: Transition [AlarmMenu] -> [IdleState]
+[10:53:08.7] The Time is 10:53
+[11:00:08.9] System: Transition [IdleState] -> [AlarmState]
+[11:00:08.9]     ===========
+[11:00:08.9]     | WAKE UP |
+[11:00:08.9]     ===========
+[11:00:08.9] The Time is 11:00
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 0/200
+[11:00:08.9] Wakeup Level: 1/200
+[11:00:08.9] Wakeup Level: 1/200
+[11:00:09.0] Wakeup Level: 1/200
+[11:00:09.5] Wakeup Level: 1/200
+[11:00:10.1] Wakeup Level: 1/200
+[11:00:10.7] Wakeup Level: 1/200
+[11:00:11.2] Wakeup Level: 1/200
+[11:00:11.8] Wakeup Level: 1/200
+[11:00:12.3] Wakeup Level: 1/200
+[11:00:12.9] Wakeup Level: 1/200
+[11:00:13.4] Wakeup Level: 1/200
+[11:00:14.0] Wakeup Level: 2/200
+[11:00:14.6] Wakeup Level: 2/200
+[11:00:15.7] Wakeup Level: 2/200
+[11:00:15.7] Wakeup Level: 2/200
+[11:00:16.2] Wakeup Level: 2/200
+[11:00:16.8] Wakeup Level: 2/200
+[11:00:17.3] Wakeup Level: 2/200
+[11:00:18.0] Wakeup Level: 2/200
+[11:00:18.5] Wakeup Level: 2/200
+[11:00:19.0] Wakeup Level: 2/200
+[11:00:19.6] Wakeup Level: 2/200
+[11:00:20.1] Wakeup Level: 3/200
+[11:00:20.7] Wakeup Level: 3/200
+[11:00:21.2] Wakeup Level: 3/200
+[11:00:21.8] Wakeup Level: 3/200
+[11:00:22.4] Wakeup Level: 3/200
+[11:00:22.9] Wakeup Level: 3/200
+[11:00:23.5] Wakeup Level: 3/200
+[11:00:24.0] Wakeup Level: 3/200
+[11:00:24.6] Wakeup Level: 3/200
+[11:00:25.1] Wakeup Level: 4/200
+[11:00:25.7] Wakeup Level: 4/200
+[11:00:26.3] Wakeup Level: 4/200
+[11:00:26.8] Wakeup Level: 4/200
+[11:00:27.4] Wakeup Level: 4/200
+[11:00:27.9] Wakeup Level: 4/200
+[11:00:28.5] Wakeup Level: 4/200
+[11:00:29.1] Wakeup Level: 4/200
+[11:00:29.6] Wakeup Level: 4/200
+[11:00:30.2] Wakeup Level: 4/200
+[11:00:30.7] Wakeup Level: 5/200
+[11:00:31.3] Wakeup Level: 5/200
+[11:00:31.8] Wakeup Level: 5/200
+[11:00:32.4] Wakeup Level: 5/200
+[11:00:33.0] Wakeup Level: 5/200
+[11:00:33.5] Wakeup Level: 5/200
+[11:00:34.1] Wakeup Level: 5/200
+[11:00:34.6] Wakeup Level: 5/200
+[11:00:35.2] Wakeup Level: 5/200
+[11:00:35.7] Wakeup Level: 5/200
+[11:00:36.3] Wakeup Level: 5/200
+[11:00:36.9] Wakeup Level: 6/200
+[11:00:37.4] Wakeup Level: 6/200
+[11:00:38.0] Wakeup Level: 6/200
+[11:00:38.5] Wakeup Level: 6/200
+[11:00:39.1] Wakeup Level: 6/200
+[11:00:39.6] Wakeup Level: 6/200
+[11:00:40.2] Wakeup Level: 6/200
+[11:00:40.8] Wakeup Level: 6/200
+[11:00:41.3] Wakeup Level: 6/200
+[11:00:41.9] Wakeup Level: 7/200
+[11:00:42.4] Wakeup Level: 7/200
+[11:00:43.0] Wakeup Level: 7/200
+[11:00:43.5] Wakeup Level: 7/200
+[11:00:44.1] Wakeup Level: 7/200
+[11:00:44.7] Wakeup Level: 7/200
+[11:00:45.2] Wakeup Level: 7/200
+[11:00:45.8] Wakeup Level: 7/200
+[11:00:46.3] Wakeup Level: 7/200
+[11:00:46.9] Wakeup Level: 7/200
+[11:00:47.4] Wakeup Level: 7/200
+[11:00:48.0] Wakeup Level: 8/200
+[11:00:48.6] Wakeup Level: 8/200
+[11:00:49.1] Wakeup Level: 8/200
+[11:00:49.7] Wakeup Level: 8/200
+[11:00:50.2] Wakeup Level: 8/200
+[11:00:50.8] Wakeup Level: 8/200
+[11:00:51.3] Wakeup Level: 8/200
+[11:00:51.9] Wakeup Level: 8/200
+[11:00:52.5] Wakeup Level: 8/200
+[11:00:53.0] Wakeup Level: 8/200
+[11:00:53.6] Wakeup Level: 8/200
+[11:00:54.1] Wakeup Level: 9/200
+[11:00:54.7] Wakeup Level: 9/200
+[11:00:55.2] Wakeup Level: 9/200
+[11:00:55.8] Wakeup Level: 9/200
+[11:00:56.4] Wakeup Level: 9/200
+[11:00:56.9] Wakeup Level: 9/200
+[11:00:57.5] Wakeup Level: 9/200
+[11:00:58.0] Wakeup Level: 9/200
+[11:00:58.6] Wakeup Level: 9/200
+[11:00:59.1] Wakeup Level: 10/200
+[11:00:59.7] Wakeup Level: 10/200
+[11:01:00.3] Wakeup Level: 10/200
+[11:01:00.8] Wakeup Level: 10/200
+[11:01:01.4] Wakeup Level: 10/200
+[11:01:01.9] Wakeup Level: 10/200
+[11:01:02.0] The Time is 11:01
+[11:01:02.5] Wakeup Level: 10/200
+[11:01:03.0] Wakeup Level: 10/200
+[11:01:03.6] Wakeup Level: 10/200
+[11:01:04.2] Wakeup Level: 10/200
+[11:01:04.7] Wakeup Level: 11/200
+[11:01:05.3] Wakeup Level: 11/200
+[11:01:05.8] Wakeup Level: 11/200
+[11:01:06.4] Wakeup Level: 11/200
+[11:01:07.0] Wakeup Level: 11/200
+[11:01:07.5] Wakeup Level: 11/200
+[11:01:08.1] Wakeup Level: 11/200
+[11:01:08.6] Wakeup Level: 11/200
+[11:01:09.2] Wakeup Level: 11/200
+[11:01:09.7] Wakeup Level: 11/200
+[11:01:10.3] Wakeup Level: 11/200
+[11:01:10.9] Wakeup Level: 12/200
+[11:01:11.4] Wakeup Level: 12/200
+[11:01:12.0] Wakeup Level: 12/200
+[11:01:12.5] Wakeup Level: 12/200
+[11:01:13.1] Wakeup Level: 12/200
+[11:01:13.6] Wakeup Level: 12/200
+[11:01:14.2] Wakeup Level: 12/200
+[11:01:14.8] Wakeup Level: 12/200
+[11:01:15.3] Wakeup Level: 12/200
+[11:01:15.9] Wakeup Level: 12/200
+[11:01:16.4] Wakeup Level: 12/200
+[11:01:17.0] Wakeup Level: 13/200
+[11:01:17.5] Wakeup Level: 13/200
+[11:01:18.1] Wakeup Level: 13/200
+[11:01:18.7] Wakeup Level: 13/200
+[11:01:19.2] Wakeup Level: 13/200
+[11:01:19.8] Wakeup Level: 13/200
+[11:01:20.3] Wakeup Level: 13/200
+[11:01:20.9] Wakeup Level: 13/200
+[11:01:21.4] Wakeup Level: 13/200
+[11:01:22.0] Wakeup Level: 14/200
+[11:01:22.6] Wakeup Level: 14/200
+[11:01:23.1] Wakeup Level: 14/200
+[11:01:23.7] Wakeup Level: 14/200
+[11:01:24.2] Wakeup Level: 14/200
+[11:01:24.8] Wakeup Level: 14/200
+[11:01:25.3] Wakeup Level: 14/200
+[11:01:25.9] Wakeup Level: 14/200
+[11:01:26.5] Wakeup Level: 14/200
+[11:01:27.0] Wakeup Level: 14/200
+[11:01:27.6] Wakeup Level: 14/200
+[11:01:28.1] Wakeup Level: 15/200
+[11:01:28.7] Wakeup Level: 15/200
+[11:01:29.2] Wakeup Level: 15/200
+[11:01:29.8] Wakeup Level: 15/200
+[11:01:30.4] Wakeup Level: 15/200
+[11:01:30.9] Wakeup Level: 15/200
+[11:01:31.5] Wakeup Level: 15/200
+[11:01:32.0] Wakeup Level: 15/200
+[11:01:32.6] Wakeup Level: 15/200
+[11:01:33.1] Wakeup Level: 15/200
+[11:01:33.7] Wakeup Level: 16/200
+[11:01:34.3] Wakeup Level: 16/200
+[11:01:34.8] Wakeup Level: 16/200
+[11:01:35.4] Wakeup Level: 16/200
+[11:01:35.9] Wakeup Level: 16/200
+[11:01:36.5] Wakeup Level: 16/200
+[11:01:37.1] Wakeup Level: 16/200
+[11:01:37.6] Wakeup Level: 16/200
+[11:01:38.2] Wakeup Level: 16/200
+[11:01:38.7] Wakeup Level: 17/200
+[11:01:39.3] Wakeup Level: 17/200
+[11:01:39.8] Wakeup Level: 17/200
+[11:01:40.4] Wakeup Level: 17/200
+[11:01:41.0] Wakeup Level: 17/200
+[11:01:41.5] Wakeup Level: 17/200
+[11:01:42.1] Wakeup Level: 17/200
+[11:01:42.6] Wakeup Level: 17/200
+[11:01:43.2] Wakeup Level: 17/200
+[11:01:43.7] Wakeup Level: 17/200
+[11:01:44.3] Wakeup Level: 17/200
+[11:01:44.9] Wakeup Level: 18/200
+[11:01:45.4] Wakeup Level: 18/200
+[11:01:46.0] Wakeup Level: 18/200
+[11:01:46.5] Wakeup Level: 18/200
+[11:01:47.1] Wakeup Level: 18/200
+[11:01:47.6] Wakeup Level: 18/200
+[11:01:48.2] Wakeup Level: 18/200
+[11:01:48.8] Wakeup Level: 18/200
+[11:01:49.3] Wakeup Level: 18/200
+[11:01:49.9] Wakeup Level: 18/200
+[11:01:50.4] Wakeup Level: 18/200
+[11:01:51.0] Wakeup Level: 19/200
+[11:01:51.5] Wakeup Level: 19/200
+[11:01:52.1] Wakeup Level: 19/200
+[11:01:52.7] Wakeup Level: 19/200
+[11:01:53.2] Wakeup Level: 19/200
+[11:01:53.8] Wakeup Level: 19/200
+[11:01:54.3] Wakeup Level: 19/200
+[11:01:54.9] Wakeup Level: 19/200
+[11:01:55.4] Wakeup Level: 19/200
+[11:01:56.0] Wakeup Level: 20/200
+[11:01:56.6] Wakeup Level: 20/200
+[11:01:57.1] Wakeup Level: 20/200
+[11:01:57.7] Wakeup Level: 20/200
+[11:01:58.2] Wakeup Level: 20/200
+[11:01:58.8] Wakeup Level: 20/200
+[11:01:59.4] Wakeup Level: 20/200
+[11:01:59.9] Wakeup Level: 20/200
+[11:02:00.5] Wakeup Level: 20/200
+[11:02:01.0] Wakeup Level: 20/200
+[11:02:01.6] Wakeup Level: 20/200
+[11:02:02.1] Wakeup Level: 21/200
+[11:02:02.2] The Time is 11:02
+[11:02:02.7] Wakeup Level: 21/200
+[11:02:03.3] Wakeup Level: 21/200
+[11:02:03.8] Wakeup Level: 21/200
+[11:02:04.4] Wakeup Level: 21/200
+[11:02:04.9] Wakeup Level: 21/200
+[11:02:05.5] Wakeup Level: 21/200
+[11:02:06.0] Wakeup Level: 21/200
+[11:02:06.6] Wakeup Level: 21/200
+[11:02:07.2] Wakeup Level: 21/200
+[11:02:07.7] Wakeup Level: 22/200
+[11:02:08.3] Wakeup Level: 22/200
+[11:02:08.8] Wakeup Level: 22/200
+[11:02:09.4] Wakeup Level: 22/200
+[11:02:09.9] Wakeup Level: 22/200
+[11:02:10.5] Wakeup Level: 22/200
+[11:02:11.1] Wakeup Level: 22/200
+[11:02:11.6] Wakeup Level: 22/200
+[11:02:12.2] Wakeup Level: 22/200
+[11:02:12.7] Wakeup Level: 22/200
+[11:02:13.3] Wakeup Level: 22/200
+[11:02:13.8] Wakeup Level: 23/200
+[11:02:14.4] Wakeup Level: 23/200
+[11:02:15.0] Wakeup Level: 23/200
+[11:02:15.5] Wakeup Level: 23/200
+[11:02:16.1] Wakeup Level: 23/200
+[11:02:16.6] Wakeup Level: 23/200
+[11:02:17.2] Wakeup Level: 23/200
+[11:02:17.7] Wakeup Level: 23/200
+[11:02:18.3] Wakeup Level: 23/200
+[11:02:18.9] Wakeup Level: 24/200
+[11:02:19.4] Wakeup Level: 24/200
+[11:02:20.0] Wakeup Level: 24/200
+[11:02:20.5] Wakeup Level: 24/200
+[11:02:21.1] Wakeup Level: 24/200
+[11:02:21.7] Wakeup Level: 24/200
+[11:02:22.2] Wakeup Level: 24/200
+[11:02:22.8] Wakeup Level: 24/200
+[11:02:23.3] Wakeup Level: 24/200
+[11:02:23.9] Wakeup Level: 24/200
+[11:02:24.4] Wakeup Level: 24/200
+[11:02:25.0] Wakeup Level: 25/200
+[11:02:25.6] Wakeup Level: 25/200
+[11:02:26.1] Wakeup Level: 25/200
+[11:02:26.7] Wakeup Level: 25/200
+[11:02:27.2] Wakeup Level: 25/200
+[11:02:27.8] Wakeup Level: 25/200
+[11:02:28.3] Wakeup Level: 25/200
+[11:02:28.9] Wakeup Level: 25/200
+[11:02:29.5] Wakeup Level: 25/200
+[11:02:30.0] Wakeup Level: 25/200
+[11:02:30.6] Wakeup Level: 25/200
+[11:02:31.1] Wakeup Level: 26/200
+[11:02:31.7] Wakeup Level: 26/200
+[11:02:32.2] Wakeup Level: 26/200
+[11:02:32.8] Wakeup Level: 26/200
+[11:02:33.4] Wakeup Level: 26/200
+[11:02:33.9] Wakeup Level: 26/200
+[11:02:34.5] Wakeup Level: 26/200
+[11:02:35.0] Wakeup Level: 26/200
+[11:02:35.6] Wakeup Level: 26/200
+[11:02:36.2] Wakeup Level: 27/200
+[11:02:36.7] Wakeup Level: 27/200
+[11:02:37.3] Wakeup Level: 27/200
+[11:02:37.8] Wakeup Level: 27/200
+[11:02:38.4] Wakeup Level: 27/200
+[11:02:38.9] Wakeup Level: 27/200
+[11:02:39.5] Wakeup Level: 27/200
+[11:02:40.1] Wakeup Level: 27/200
+[11:02:40.6] Wakeup Level: 27/200
+[11:02:41.2] Wakeup Level: 27/200
+[11:02:41.7] Wakeup Level: 28/200
+[11:02:42.3] Wakeup Level: 28/200
+[11:02:42.8] Wakeup Level: 28/200
+[11:02:43.4] Wakeup Level: 28/200
+[11:02:44.0] Wakeup Level: 28/200
+[11:02:44.5] Wakeup Level: 28/200
+[11:02:45.1] Wakeup Level: 28/200
+[11:02:45.6] Wakeup Level: 28/200
+[11:02:46.2] Wakeup Level: 28/200
+[11:02:46.7] Wakeup Level: 28/200
+[11:02:47.3] Wakeup Level: 28/200
+[11:02:47.9] Wakeup Level: 29/200
+[11:02:48.4] Wakeup Level: 29/200
+[11:02:49.0] Wakeup Level: 29/200
+[11:02:49.5] Wakeup Level: 29/200
+[11:02:50.1] Wakeup Level: 29/200
+[11:02:50.6] Wakeup Level: 29/200
+[11:02:51.2] Wakeup Level: 29/200
+[11:02:51.8] Wakeup Level: 29/200
+[11:02:52.3] Wakeup Level: 29/200
+[11:02:52.9] Wakeup Level: 30/200
+[11:02:53.4] Wakeup Level: 30/200
+[11:02:54.0] Wakeup Level: 30/200
+[11:02:54.6] Wakeup Level: 30/200
+[11:02:55.1] Wakeup Level: 30/200
+[11:02:55.7] Wakeup Level: 30/200
+[11:02:56.2] Wakeup Level: 30/200
+[11:02:56.8] Wakeup Level: 30/200
+[11:02:57.3] Wakeup Level: 30/200
+[11:02:57.9] Wakeup Level: 30/200
+[11:02:58.5] Wakeup Level: 30/200
+[11:02:59.0] Wakeup Level: 31/200
+[11:02:59.6] Wakeup Level: 31/200
+[11:03:00.1] Wakeup Level: 31/200
+[11:03:00.7] Wakeup Level: 31/200
+[11:03:01.2] Wakeup Level: 31/200
+[11:03:01.8] Wakeup Level: 31/200
+[11:03:01.8] The Time is 11:03
+[11:03:02.4] Wakeup Level: 31/200
+[11:03:02.9] Wakeup Level: 31/200
+[11:03:03.5] Wakeup Level: 31/200
+[11:03:04.0] Wakeup Level: 31/200
+[11:03:04.6] Wakeup Level: 31/200
+[11:03:05.1] Wakeup Level: 32/200
+[11:03:05.7] Wakeup Level: 32/200
+[11:03:06.3] Wakeup Level: 32/200
+[11:03:06.8] Wakeup Level: 32/200
+[11:03:07.4] Wakeup Level: 32/200
+[11:03:07.9] Wakeup Level: 32/200
+[11:03:08.5] Wakeup Level: 32/200
+[11:03:09.1] Wakeup Level: 32/200
+[11:03:09.6] Wakeup Level: 32/200
+[11:03:10.2] Wakeup Level: 32/200
+[11:03:10.7] Wakeup Level: 33/200
+[11:03:11.3] Wakeup Level: 33/200
+[11:03:11.8] Wakeup Level: 33/200
+[11:03:12.4] Wakeup Level: 33/200
+[11:03:13.0] Wakeup Level: 33/200
+[11:03:13.5] Wakeup Level: 33/200
+[11:03:14.1] Wakeup Level: 33/200
+[11:03:14.6] Wakeup Level: 33/200
+[11:03:15.2] Wakeup Level: 33/200
+[11:03:15.7] Wakeup Level: 34/200
+[11:03:16.3] Wakeup Level: 34/200
+[11:03:16.9] Wakeup Level: 34/200
+[11:03:17.4] Wakeup Level: 34/200
+[11:03:18.0] Wakeup Level: 34/200
+[11:03:18.5] Wakeup Level: 34/200
+[11:03:19.1] Wakeup Level: 34/200
+[11:03:19.6] Wakeup Level: 34/200
+[11:03:20.2] Wakeup Level: 34/200
+[11:03:20.8] Wakeup Level: 34/200
+[11:03:21.3] Wakeup Level: 34/200
+[11:03:21.9] Wakeup Level: 35/200
+[11:03:22.4] Wakeup Level: 35/200
+[11:03:23.0] Wakeup Level: 35/200
+[11:03:23.5] Wakeup Level: 35/200
+[11:03:24.1] Wakeup Level: 35/200
+[11:03:24.7] Wakeup Level: 35/200
+[11:03:25.2] Wakeup Level: 35/200
+[11:03:25.8] Wakeup Level: 35/200
+[11:03:26.3] Wakeup Level: 35/200
+[11:03:26.9] Wakeup Level: 35/200
+[11:03:27.5] Wakeup Level: 35/200
+[11:03:28.0] Wakeup Level: 36/200
+[11:03:28.6] Wakeup Level: 36/200
+[11:03:29.1] Wakeup Level: 36/200
+[11:03:29.7] Wakeup Level: 36/200
+[11:03:30.2] Wakeup Level: 36/200
+[11:03:30.8] Wakeup Level: 36/200
+[11:03:31.4] Wakeup Level: 36/200
+[11:03:31.9] Wakeup Level: 36/200
+[11:03:32.5] Wakeup Level: 36/200
+[11:03:33.0] Wakeup Level: 37/200
+[11:03:33.6] Wakeup Level: 37/200
+[11:03:34.1] Wakeup Level: 37/200
+[11:03:34.7] Wakeup Level: 37/200
+[11:03:35.3] Wakeup Level: 37/200
+[11:03:35.8] Wakeup Level: 37/200
+[11:03:36.4] Wakeup Level: 37/200
+[11:03:36.9] Wakeup Level: 37/200
+[11:03:37.5] Wakeup Level: 37/200
+[11:03:38.0] Wakeup Level: 37/200
+[11:03:38.6] Wakeup Level: 38/200
+[11:03:39.2] Wakeup Level: 38/200
+[11:03:39.7] Wakeup Level: 38/200
+[11:03:40.3] Wakeup Level: 38/200
+[11:03:40.8] Wakeup Level: 38/200
+[11:03:41.4] Wakeup Level: 38/200
+[11:03:41.9] Wakeup Level: 38/200
+[11:03:42.5] Wakeup Level: 38/200
+[11:03:43.1] Wakeup Level: 38/200
+[11:03:43.6] Wakeup Level: 38/200
+[11:03:44.2] Wakeup Level: 38/200
+[11:03:44.7] Wakeup Level: 39/200
+[11:03:45.3] Wakeup Level: 39/200
+[11:03:45.9] Wakeup Level: 39/200
+[11:03:46.4] Wakeup Level: 39/200
+[11:03:47.0] Wakeup Level: 39/200
+[11:03:47.5] Wakeup Level: 39/200
+[11:03:48.1] Wakeup Level: 39/200
+[11:03:48.6] Wakeup Level: 39/200
+[11:03:49.2] Wakeup Level: 39/200
+[11:03:49.8] Wakeup Level: 40/200
+[11:03:50.3] Wakeup Level: 40/200
+[11:03:50.9] Wakeup Level: 40/200
+[11:03:51.4] Wakeup Level: 40/200
+[11:03:52.0] Wakeup Level: 40/200
+[11:03:52.5] Wakeup Level: 40/200
+[11:03:53.1] Wakeup Level: 40/200
+[11:03:53.7] Wakeup Level: 40/200
+[11:03:54.2] Wakeup Level: 40/200
+[11:03:54.8] Wakeup Level: 40/200
+[11:03:55.3] Wakeup Level: 40/200
+[11:03:55.9] Wakeup Level: 41/200
+[11:03:56.4] Wakeup Level: 41/200
+[11:03:57.0] Wakeup Level: 41/200
+[11:03:57.6] Wakeup Level: 41/200
+[11:03:58.1] Wakeup Level: 41/200
+[11:03:58.7] Wakeup Level: 41/200
+[11:03:59.2] Wakeup Level: 41/200
+[11:03:59.8] Wakeup Level: 41/200
+[11:04:00.4] Wakeup Level: 41/200
+[11:04:00.9] Wakeup Level: 41/200
+[11:04:01.5] Wakeup Level: 41/200
+[11:04:02.0] Wakeup Level: 42/200
+[11:04:02.1] The Time is 11:04
+[11:04:02.6] Wakeup Level: 42/200
+[11:04:03.1] Wakeup Level: 42/200
+[11:04:03.7] Wakeup Level: 42/200
+[11:04:04.3] Wakeup Level: 42/200
+[11:04:04.8] Wakeup Level: 42/200
+[11:04:05.4] Wakeup Level: 42/200
+[11:04:05.9] Wakeup Level: 42/200
+[11:04:06.5] Wakeup Level: 42/200
+[11:04:07.0] Wakeup Level: 42/200
+[11:04:07.6] Wakeup Level: 43/200
+[11:04:08.2] Wakeup Level: 43/200
+[11:04:08.7] Wakeup Level: 43/200
+[11:04:09.3] Wakeup Level: 43/200
+[11:04:09.8] Wakeup Level: 43/200
+[11:04:10.4] Wakeup Level: 43/200
+[11:04:10.9] Wakeup Level: 43/200
+[11:04:11.5] Wakeup Level: 43/200
+[11:04:12.1] Wakeup Level: 43/200
+[11:04:12.6] Wakeup Level: 44/200
+[11:04:13.2] Wakeup Level: 44/200
+[11:04:13.7] Wakeup Level: 44/200
+[11:04:14.3] Wakeup Level: 44/200
+[11:04:14.9] Wakeup Level: 44/200
+[11:04:15.4] Wakeup Level: 44/200
+[11:04:16.0] Wakeup Level: 44/200
+[11:04:16.5] Wakeup Level: 44/200
+[11:04:17.1] Wakeup Level: 44/200
+[11:04:17.6] Wakeup Level: 44/200
+[11:04:18.2] Wakeup Level: 44/200
+[11:04:18.8] Wakeup Level: 45/200
+[11:04:19.3] Wakeup Level: 45/200
+[11:04:19.9] Wakeup Level: 45/200
+[11:04:20.4] Wakeup Level: 45/200
+[11:04:21.0] Wakeup Level: 45/200
+[11:04:21.5] Wakeup Level: 45/200
+[11:04:22.1] Wakeup Level: 45/200
+[11:04:22.7] Wakeup Level: 45/200
+[11:04:23.2] Wakeup Level: 45/200
+[11:04:23.8] Wakeup Level: 45/200
+[11:04:24.3] Wakeup Level: 45/200
+[11:04:24.9] Wakeup Level: 46/200
+[11:04:25.4] Wakeup Level: 46/200
+[11:04:26.0] Wakeup Level: 46/200
+[11:04:26.6] Wakeup Level: 46/200
+[11:04:27.1] Wakeup Level: 46/200
+[11:04:27.7] Wakeup Level: 46/200
+[11:04:28.2] Wakeup Level: 46/200
+[11:04:28.8] Wakeup Level: 46/200
+[11:04:29.4] Wakeup Level: 46/200
+[11:04:29.9] Wakeup Level: 47/200
+[11:04:30.5] Wakeup Level: 47/200
+[11:04:31.0] Wakeup Level: 47/200
+[11:04:31.6] Wakeup Level: 47/200
+[11:04:32.1] Wakeup Level: 47/200
+[11:04:32.7] Wakeup Level: 47/200
+[11:04:33.3] Wakeup Level: 47/200
+[11:04:33.8] Wakeup Level: 47/200
+[11:04:34.4] Wakeup Level: 47/200
+[11:04:34.9] Wakeup Level: 47/200
+[11:04:35.5] Wakeup Level: 47/200
+[11:04:36.0] Wakeup Level: 48/200
+[11:04:36.6] Wakeup Level: 48/200
+[11:04:37.2] Wakeup Level: 48/200
+[11:04:37.7] Wakeup Level: 48/200
+[11:04:38.3] Wakeup Level: 48/200
+[11:04:38.8] Wakeup Level: 48/200
+[11:04:39.4] Wakeup Level: 48/200
+[11:04:39.9] Wakeup Level: 48/200
+[11:04:40.5] Wakeup Level: 48/200
+[11:04:41.1] Wakeup Level: 48/200
+[11:04:41.6] Wakeup Level: 49/200
+[11:04:42.2] Wakeup Level: 49/200
+[11:04:42.7] Wakeup Level: 49/200
+[11:04:43.3] Wakeup Level: 49/200
+[11:04:43.9] Wakeup Level: 49/200
+[11:04:44.4] Wakeup Level: 49/200
+[11:04:45.0] Wakeup Level: 49/200
+[11:04:45.5] Wakeup Level: 49/200
+[11:04:46.1] Wakeup Level: 49/200
+[11:04:46.6] Wakeup Level: 50/200
+[11:04:47.2] Wakeup Level: 50/200
+[11:04:47.8] Wakeup Level: 50/200
+[11:04:48.3] Wakeup Level: 50/200
+[11:04:48.9] Wakeup Level: 50/200
+[11:04:49.4] Wakeup Level: 50/200
+[11:04:50.0] Wakeup Level: 50/200
+[11:04:50.5] Wakeup Level: 50/200
+[11:04:51.1] Wakeup Level: 50/200
+[11:04:51.7] Wakeup Level: 50/200
+[11:04:52.2] Wakeup Level: 50/200
+[11:04:52.8] Wakeup Level: 51/200
+[11:04:53.3] Wakeup Level: 51/200
+[11:04:53.9] Wakeup Level: 51/200
+[11:04:54.5] Wakeup Level: 51/200
+[11:04:55.0] Wakeup Level: 51/200
+[11:04:55.6] Wakeup Level: 51/200
+[11:04:56.1] Wakeup Level: 51/200
+[11:04:56.7] Wakeup Level: 51/200
+[11:04:57.2] Wakeup Level: 51/200
+[11:04:57.8] Wakeup Level: 51/200
+[11:04:58.4] Wakeup Level: 51/200
+[11:04:58.9] Wakeup Level: 52/200
+[11:04:59.5] Wakeup Level: 52/200
+[11:05:00.0] Wakeup Level: 52/200
+[11:05:00.6] Wakeup Level: 52/200
+[11:05:01.1] Wakeup Level: 52/200
+[11:05:01.7] Wakeup Level: 52/200
+[11:05:01.7] The Time is 11:05
+[11:05:02.3] Wakeup Level: 52/200
+[11:05:02.8] Wakeup Level: 52/200
+[11:05:03.4] Wakeup Level: 52/200
+[11:05:03.9] Wakeup Level: 52/200
+[11:05:04.5] Wakeup Level: 52/200
+[11:05:05.0] Wakeup Level: 53/200
+[11:05:05.6] Wakeup Level: 53/200
+[11:05:06.2] Wakeup Level: 53/200
+[11:05:06.7] Wakeup Level: 53/200
+[11:05:07.3] Wakeup Level: 53/200
+[11:05:07.8] Wakeup Level: 53/200
+[11:05:08.4] Wakeup Level: 53/200
+[11:05:08.9] Wakeup Level: 53/200
+[11:05:09.5] Wakeup Level: 53/200
+[11:05:10.1] Wakeup Level: 54/200
+[11:05:10.6] Wakeup Level: 54/200
+[11:05:11.2] Wakeup Level: 54/200
+[11:05:11.7] Wakeup Level: 54/200
+[11:05:12.3] Wakeup Level: 54/200
+[11:05:12.9] Wakeup Level: 54/200
+[11:05:13.4] Wakeup Level: 54/200
+[11:05:14.0] Wakeup Level: 54/200
+[11:05:14.5] Wakeup Level: 54/200
+[11:05:15.1] Wakeup Level: 54/200
+[11:05:15.6] Wakeup Level: 55/200
+[11:05:16.2] Wakeup Level: 55/200
+[11:05:16.8] Wakeup Level: 55/200
+[11:05:17.3] Wakeup Level: 55/200
+[11:05:17.9] Wakeup Level: 55/200
+[11:05:18.4] Wakeup Level: 55/200
+[11:05:19.0] Wakeup Level: 55/200
+[11:05:19.5] Wakeup Level: 55/200
+[11:05:20.1] Wakeup Level: 55/200
+[11:05:20.7] Wakeup Level: 55/200
+[11:05:21.2] Wakeup Level: 55/200
+[11:05:21.8] Wakeup Level: 56/200
+[11:05:22.3] Wakeup Level: 56/200
+[11:05:22.9] Wakeup Level: 56/200
+[11:05:23.5] Wakeup Level: 56/200
+[11:05:24.0] Wakeup Level: 56/200
+[11:05:24.6] Wakeup Level: 56/200
+[11:05:25.1] Wakeup Level: 56/200
+[11:05:25.7] Wakeup Level: 56/200
+[11:05:26.2] Wakeup Level: 56/200
+[11:05:26.8] Wakeup Level: 57/200
+[11:05:27.4] Wakeup Level: 57/200
+[11:05:27.9] Wakeup Level: 57/200
+[11:05:28.5] Wakeup Level: 57/200
+[11:05:29.0] Wakeup Level: 57/200
+[11:05:29.6] Wakeup Level: 57/200
+[11:05:30.1] Wakeup Level: 57/200
+[11:05:30.7] Wakeup Level: 57/200
+[11:05:31.3] Wakeup Level: 57/200
+[11:05:31.8] Wakeup Level: 57/200
+[11:05:32.4] Wakeup Level: 57/200
+[11:05:32.9] Wakeup Level: 58/200
+[11:05:33.5] Wakeup Level: 58/200
+[11:05:34.0] Wakeup Level: 58/200
+[11:05:34.6] Wakeup Level: 58/200
+[11:05:35.2] Wakeup Level: 58/200
+[11:05:35.7] Wakeup Level: 58/200
+[11:05:36.3] Wakeup Level: 58/200
+[11:05:36.8] Wakeup Level: 58/200
+[11:05:37.4] Wakeup Level: 58/200
+[11:05:38.0] Wakeup Level: 58/200
+[11:05:38.5] Wakeup Level: 58/200
+[11:05:39.1] Wakeup Level: 59/200
+[11:05:39.6] Wakeup Level: 59/200
+[11:05:40.2] Wakeup Level: 59/200
+[11:05:40.7] Wakeup Level: 59/200
+[11:05:41.3] Wakeup Level: 59/200
+[11:05:41.9] Wakeup Level: 59/200
+[11:05:42.4] Wakeup Level: 59/200
+[11:05:43.0] Wakeup Level: 59/200
+[11:05:43.5] Wakeup Level: 59/200
+[11:05:44.1] Wakeup Level: 60/200
+[11:05:44.6] Wakeup Level: 60/200
+[11:05:45.2] Wakeup Level: 60/200
+[11:05:45.8] Wakeup Level: 60/200
+[11:05:46.3] Wakeup Level: 60/200
+[11:05:46.9] Wakeup Level: 60/200
+[11:05:47.4] Wakeup Level: 60/200
+[11:05:48.0] Wakeup Level: 60/200
+[11:05:48.6] Wakeup Level: 60/200
+[11:05:49.1] Wakeup Level: 60/200
+[11:05:49.7] Wakeup Level: 61/200
+[11:05:50.2] Wakeup Level: 61/200
+[11:05:50.8] Wakeup Level: 61/200
+[11:05:51.3] Wakeup Level: 61/200
+[11:05:51.9] Wakeup Level: 61/200
+[11:05:52.5] Wakeup Level: 61/200
+[11:05:53.0] Wakeup Level: 61/200
+[11:05:53.6] Wakeup Level: 61/200
+[11:05:54.1] Wakeup Level: 61/200
+[11:05:54.7] Wakeup Level: 61/200
+[11:05:55.2] Wakeup Level: 61/200
+[11:05:55.8] Wakeup Level: 62/200
+[11:05:56.4] Wakeup Level: 62/200
+[11:05:56.9] Wakeup Level: 62/200
+[11:05:57.5] Wakeup Level: 62/200
+[11:05:58.0] Wakeup Level: 62/200
+[11:05:58.6] Wakeup Level: 62/200
+[11:05:59.1] Wakeup Level: 62/200
+[11:05:59.7] Wakeup Level: 62/200
+[11:06:00.3] Wakeup Level: 62/200
+[11:06:00.8] Wakeup Level: 62/200
+[11:06:01.4] Wakeup Level: 62/200
+[11:06:01.9] Wakeup Level: 63/200
+[11:06:02.0] The Time is 11:06
+[11:06:02.5] Wakeup Level: 63/200
+[11:06:03.1] Wakeup Level: 63/200
+[11:06:03.6] Wakeup Level: 63/200
+[11:06:04.2] Wakeup Level: 63/200
+[11:06:04.7] Wakeup Level: 63/200
+[11:06:05.3] Wakeup Level: 63/200
+[11:06:05.8] Wakeup Level: 63/200
+[11:06:06.4] Wakeup Level: 63/200
+[11:06:07.0] Wakeup Level: 64/200
+[11:06:07.5] Wakeup Level: 64/200
+[11:06:08.1] Wakeup Level: 64/200
+[11:06:08.6] Wakeup Level: 64/200
+[11:06:09.2] Wakeup Level: 64/200
+[11:06:09.7] Wakeup Level: 64/200
+[11:06:10.3] Wakeup Level: 64/200
+[11:06:10.9] Wakeup Level: 64/200
+[11:06:11.4] Wakeup Level: 64/200
+[11:06:12.0] Wakeup Level: 64/200
+[11:06:12.5] Wakeup Level: 64/200
+[11:06:13.1] Wakeup Level: 65/200
+[11:06:13.7] Wakeup Level: 65/200
+[11:06:14.2] Wakeup Level: 65/200
+[11:06:14.8] Wakeup Level: 65/200
+[11:06:15.3] Wakeup Level: 65/200
+[11:06:15.9] Wakeup Level: 65/200
+[11:06:16.4] Wakeup Level: 65/200
+[11:06:17.0] Wakeup Level: 65/200
+[11:06:17.6] Wakeup Level: 65/200
+[11:06:18.1] Wakeup Level: 65/200
+[11:06:18.7] Wakeup Level: 66/200
+[11:06:19.2] Wakeup Level: 66/200
+[11:06:19.8] Wakeup Level: 66/200
+[11:06:20.3] Wakeup Level: 66/200
+[11:06:20.9] Wakeup Level: 66/200
+[11:06:21.5] Wakeup Level: 66/200
+[11:06:21.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[11:06:21.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[11:06:21.7] System: onIRmsg in [AlarmState]
+[11:06:21.8] System: Transition [AlarmState] -> [IdleState]
+[11:06:21.8]   Have a great Day!
+[11:06:29.5] The Time is 11:06
+[11:06:29.5] The Time is 11:06
+[11:06:34.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[11:06:34.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[11:06:34.2] System: onIRmsg in [IdleState]
+[11:24:04.5] ERROR: failed to get time from RTC!
+[11:24:19.5] UART started
+[11:24:19.5] Trace started
+[11:24:19.5] Sound Control started
+[11:24:19.6] LCD started
+[11:24:19.6] Lux Monitor started
+[11:24:19.6] IR Monitor reset and ready.
+[11:24:19.6] TimeKeeper started.
+[11:24:21.6] LightController started.
+[11:24:21.6] System: Started up.
+[11:24:21.6] StateController begin
+[11:24:21.6]             .-'`'-.
+[11:24:21.6]   ,-'`'.   '._     \
+[11:24:21.6]  /    .'  ___ `-._  dg|
+[11:24:21.6] |   .' ,-' __ `'/.`.'
+[11:24:21.6] \ .' \',-' 12 '-.  '.
+[11:24:21.6]  ` / / 11    7 1 `.  `.
+[11:24:21.6]   . '10     /    2 \  ;
+[11:24:21.6]   | |      O      3|  |
+[11:24:21.6]   | |9      \      '  '
+[11:24:21.6]   '  \ 8     \   4/  /
+[11:24:21.6]    '. `'.7  6  5.'  '
+[11:24:21.6]      `. _ `'''` _.'\\-.
+[11:24:21.6]       .//`''--''   (   )
+[11:24:21.6]      (   )          '-`
+[11:24:21.6]       `-'  ~ SunRiseClock ~
+
+[11:24:21.6] System Ready!
+[11:24:21.7] System: Transition [StartupState] -> [IdleState]
+[11:24:21.8] The Time is 11:24
+[13:00:08.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[16:47:38.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[16:47:38.1] System: onIRmsg in [IdleState]
+[16:47:38.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[16:47:40.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[16:47:40.6] System: onIRmsg in [IdleState]
+[16:47:40.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+
+[18:33:42.9] System: onIRmsg in
+[18:33:43.0]  [IdleState]
+[18:33:43.0] System: onIRmsg in [IdleState]
+
+[18:33:43.2] System: onIRmsg in [IdleState]
+
+[18:33:43.3] The Time is 18:33
+[18:33:43.4] System: onIRmsg in [IdleState]
+
+[18:33:43.5] System: onIRmsg in [IdleState]
+
+[18:33:44.1] System: onIRmsg in [IdleState]
+[18:33:46.0]     goin g fo diSystem: onIRmsg in [IdleState]
+[18:33:53.2] System: Transition [IdleState] -> [SoundMenu]
+[18:33:53.2] System: onIRmsg in [SoundMenu]
+[18:33:53.2]     Set level to 1, volume to 50
+[18:33:53.3] nnerSystem: Transition [SoundMenu] -> [IdleState]
+[18:33:54.2] The Time is 18:33
+[19:17:08.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:08.7] System: onIRmsg in [IdleState]
+[19:17:08.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:09.0] The Time is 19:17
+[19:17:10.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:10.7] System: onIRmsg in [IdleState]
+[19:17:10.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:10.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.0] System: onIRmsg in [IdleState]
+[19:17:11.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.3] System: onIRmsg in [IdleState]
+[19:17:11.3] System: Transition [IdleState] -> [LightMenu]
+[19:17:11.4] System: onIRmsg in [LightMenu]
+[19:17:11.4]     Set light to 30/31
+[19:17:11.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.6] System: onIRmsg in [LightMenu]
+[19:17:11.6]     Set light to 29/31
+[19:17:11.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:11.8] System: onIRmsg in [LightMenu]
+[19:17:11.9]     Set light to 28/31
+[19:17:11.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.1] System: onIRmsg in [LightMenu]
+[19:17:12.1]     Set light to 27/31
+[19:17:12.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.4] System: onIRmsg in [LightMenu]
+[19:17:12.5]     Set light to 27/31
+[19:17:12.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.7] System: onIRmsg in [LightMenu]
+[19:17:12.7]     Set light to 27/31
+[19:17:12.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:12.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:13.0] System: onIRmsg in [LightMenu]
+[19:17:13.0]     Set light to 27/31
+[19:17:13.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:13.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:13.6] System: onIRmsg in [LightMenu]
+[19:17:13.6]     Set light to 27/31
+[19:17:13.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:13.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:13.8] System: onIRmsg in [LightMenu]
+[19:17:13.9]     Set light to 27/31
+[19:17:13.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.1] System: onIRmsg in [LightMenu]
+[19:17:14.1]     Set light to 27/31
+[19:17:14.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.3] System: onIRmsg in [LightMenu]
+[19:17:14.4]     Set light to 27/31
+[19:17:14.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.7] System: onIRmsg in [LightMenu]
+[19:17:14.7]     Set light to 26/31
+[19:17:14.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:14.9] System: onIRmsg in [LightMenu]
+[19:17:14.9]     Set light to 25/31
+[19:17:14.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.1] System: onIRmsg in [LightMenu]
+[19:17:15.2]     Set light to 24/31
+[19:17:15.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.4] System: onIRmsg in [LightMenu]
+[19:17:15.5]     Set light to 23/31
+[19:17:15.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.7] System: onIRmsg in [LightMenu]
+[19:17:15.8]     Set light to 23/31
+[19:17:15.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:15.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.0] System: onIRmsg in [LightMenu]
+[19:17:16.1]     Set light to 23/31
+[19:17:16.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.4] System: onIRmsg in [LightMenu]
+[19:17:16.4]     Set light to 23/31
+[19:17:16.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.6] System: onIRmsg in [LightMenu]
+[19:17:16.6]     Set light to 23/31
+[19:17:16.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:16.9] System: onIRmsg in [LightMenu]
+[19:17:16.9]     Set light to 22/31
+[19:17:16.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:17.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:17.3] System: onIRmsg in [LightMenu]
+[19:17:17.3]     Set light to 21/31
+[19:17:17.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:17.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:17.6] System: onIRmsg in [LightMenu]
+[19:17:17.6]     Set light to 20/31
+[19:17:17.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:17.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:17.8] System: onIRmsg in [LightMenu]
+[19:17:17.9]     Set light to 19/31
+[19:17:17.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:18.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:18.1] System: onIRmsg in [LightMenu]
+[19:17:18.2]     Set light to 18/31
+[19:17:19.5] System: Transition [LightMenu] -> [IdleState]
+[19:17:19.5] The Time is 19:17
+[19:17:19.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:19.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:19.5] System: onIRmsg in [IdleState]
+[19:17:19.5] System: Transition [IdleState] -> [LightMenu]
+[19:17:19.5] System: onIRmsg in [LightMenu]
+[19:17:19.5]     Set light to 17/31
+[19:17:20.8] System: Transition [LightMenu] -> [IdleState]
+[19:17:20.8] The Time is 19:17
+[19:17:22.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:22.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:22.4] System: onIRmsg in [IdleState]
+[19:17:22.4] System: Transition [IdleState] -> [LightMenu]
+[19:17:22.5] System: onIRmsg in [LightMenu]
+[19:17:22.5]     Set light to 16/31
+[19:17:23.5] System: Transition [LightMenu] -> [IdleState]
+[19:17:23.5] The Time is 19:17
+[19:17:27.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:27.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:27.8] System: onIRmsg in [IdleState]
+[19:17:27.8] System: Transition [IdleState] -> [SoundMenu]
+[19:17:27.9] System: onIRmsg in [SoundMenu]
+[19:17:27.9]     Set level to 2, volume to 51
+[19:17:28.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.1] System: onIRmsg in [SoundMenu]
+[19:17:28.2]     Set level to 3, volume to 52
+[19:17:28.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.3] System: onIRmsg in [SoundMenu]
+[19:17:28.4]     Set level to 4, volume to 53
+[19:17:28.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.7] System: onIRmsg in [SoundMenu]
+[19:17:28.7]     Set level to 4, volume to 53
+[19:17:28.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:28.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.0] System: onIRmsg in [SoundMenu]
+[19:17:29.0]     Set level to 4, volume to 53
+[19:17:29.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.3] System: onIRmsg in [SoundMenu]
+[19:17:29.3]     Set level to 5, volume to 54
+[19:17:29.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.6] System: onIRmsg in [SoundMenu]
+[19:17:29.6]     Set level to 6, volume to 55
+[19:17:29.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:29.8] System: onIRmsg in [SoundMenu]
+[19:17:29.8]     Set level to 7, volume to 56
+[19:17:29.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.0] System: onIRmsg in [SoundMenu]
+[19:17:30.1]     Set level to 8, volume to 57
+[19:17:30.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.3] System: onIRmsg in [SoundMenu]
+[19:17:30.4]     Set level to 9, volume to 58
+[19:17:30.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.6] System: onIRmsg in [SoundMenu]
+[19:17:30.7]     Set level to 10, volume to 59
+[19:17:30.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:30.9] System: onIRmsg in [SoundMenu]
+[19:17:30.9]     Set level to 11, volume to 60
+[19:17:30.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:31.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:31.1] System: onIRmsg in [SoundMenu]
+[19:17:31.2]     Set level to 12, volume to 61
+[19:17:31.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:31.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:31.5] System: onIRmsg in [SoundMenu]
+[19:17:31.5]     Set level to 12, volume to 61
+[19:17:31.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:31.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:31.8] System: onIRmsg in [SoundMenu]
+[19:17:31.8]     Set level to 12, volume to 61
+[19:17:31.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.1] System: onIRmsg in [SoundMenu]
+[19:17:32.1]     Set level to 13, volume to 62
+[19:17:32.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.3] System: onIRmsg in [SoundMenu]
+[19:17:32.3]     Set level to 14, volume to 63
+[19:17:32.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.6] System: onIRmsg in [SoundMenu]
+[19:17:32.6]     Set level to 15, volume to 64
+[19:17:32.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:32.9] System: onIRmsg in [SoundMenu]
+[19:17:32.9]     Set level to 16, volume to 65
+[19:17:33.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.2] System: onIRmsg in [SoundMenu]
+[19:17:33.2]     Set level to 17, volume to 66
+[19:17:33.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.4] System: onIRmsg in [SoundMenu]
+[19:17:33.5]     Set level to 18, volume to 67
+[19:17:33.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.7] System: onIRmsg in [SoundMenu]
+[19:17:33.7]     Set level to 19, volume to 68
+[19:17:33.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:33.9] System: onIRmsg in [SoundMenu]
+[19:17:34.0]     Set level to 20, volume to 69
+[19:17:34.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:34.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:34.2] System: onIRmsg in [SoundMenu]
+[19:17:34.3]     Set level to 21, volume to 70
+[19:17:34.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:34.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:34.5] System: onIRmsg in [SoundMenu]
+[19:17:34.5]     Set level to 22, volume to 71
+[19:17:34.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:34.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:34.8] System: onIRmsg in [SoundMenu]
+[19:17:34.9]     Set level to 22, volume to 71
+[19:17:34.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.1] System: onIRmsg in [SoundMenu]
+[19:17:35.1]     Set level to 22, volume to 71
+[19:17:35.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.4] System: onIRmsg in [SoundMenu]
+[19:17:35.5]     Set level to 23, volume to 72
+[19:17:35.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.7] System: onIRmsg in [SoundMenu]
+[19:17:35.7]     Set level to 24, volume to 73
+[19:17:35.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:35.9] System: onIRmsg in [SoundMenu]
+[19:17:36.0]     Set level to 25, volume to 74
+[19:17:36.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:36.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:36.2] System: onIRmsg in [SoundMenu]
+[19:17:36.3]     Set level to 26, volume to 75
+[19:17:36.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:36.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:36.5] System: onIRmsg in [SoundMenu]
+[19:17:36.5]     Set level to 27, volume to 76
+[19:17:36.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:36.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:36.7] System: onIRmsg in [SoundMenu]
+[19:17:36.8]     Set level to 28, volume to 77
+[19:17:36.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:37.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:37.5] System: onIRmsg in [SoundMenu]
+[19:17:37.5]     Set level to 27, volume to 76
+[19:17:37.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:37.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:37.7] System: onIRmsg in [SoundMenu]
+[19:17:37.8]     Set level to 26, volume to 75
+[19:17:37.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:37.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:38.0] System: onIRmsg in [SoundMenu]
+[19:17:38.0]     Set level to 25, volume to 74
+[19:17:38.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:38.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:38.2] System: onIRmsg in [SoundMenu]
+[19:17:38.3]     Set level to 24, volume to 73
+[19:17:38.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:38.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:38.5] System: onIRmsg in [SoundMenu]
+[19:17:38.6]     Set level to 23, volume to 72
+[19:17:38.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:39.5] System: Transition [SoundMenu] -> [IdleState]
+[19:17:39.6] The Time is 19:17
+[19:17:39.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:39.9] System: onIRmsg in [IdleState]
+[19:17:39.9] System: Transition [IdleState] -> [SoundMenu]
+[19:17:40.0] System: onIRmsg in [SoundMenu]
+[19:17:40.0]     Set level to 22, volume to 71
+[19:17:40.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:40.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:40.3] System: onIRmsg in [SoundMenu]
+[19:17:40.3]     Set level to 22, volume to 71
+[19:17:40.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:40.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:40.6] System: onIRmsg in [SoundMenu]
+[19:17:40.6]     Set level to 22, volume to 71
+[19:17:40.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[19:17:41.6] System: Transition [SoundMenu] -> [IdleState]
+[19:17:41.6] The Time is 19:17
+[19:18:02.2] The Time is 19:18
+[19:19:02.3] The Time is 19:19
+[19:20:01.9] The Time is 19:20
+[19:21:08.9] The Time is 19:21
+[19:22:02.1] The Time is 19:22
+[19:23:02.2] The Time is 19:23
+[19:24:09.9] The Time is 19:24
+[19:25:04.2] The Time is 19:25
+[19:26:02.6] The Time is 19:26
+[19:27:02.2] The Time is 19:27
+[19:28:22.2] The Time is 19:28
+[19:29:07.5] The Time is 19:29
+[19:30:02.1] The Time is 19:30
+[19:31:12.8] The Time is 19:31
+[19:32:21.2] The Time is 19:32
+[19:33:06.7] The Time is 19:33
+[19:34:02.1] The Time is 19:34
+[19:35:02.2] The Time is 19:35
+[19:36:02.4] The Time is 19:36
+[19:37:19.1] The Time is 19:37
+[19:38:18.8] The Time is 19:38
+[19:39:17.6] The Time is 19:39
+[19:40:01.9] The Time is 19:40
+[19:41:02.5] The Time is 19:41
+[19:42:06.5] The Time is 19:42
+[19:43:02.3] The Time is 19:43
+[19:44:07.1] The Time is 19:44
+[19:45:02.2] The Time is 19:45
+[19:46:07.9] The Time is 19:46
+[19:47:11.5] The Time is 19:47
+[19:48:03.1] The Time is 19:48
+[19:49:07.9] The Time is 19:49
+[19:50:02.4] The Time is 19:50
+[19:51:07.9] The Time is 19:51
+[19:52:10.5] The Time is 19:52
+[19:53:05.4] The Time is 19:53
+[19:54:16.3] The Time is 19:54
+[19:55:21.6] The Time is 19:55
+[19:56:05.1] The Time is 19:56
+[19:57:06.0] The Time is 19:57
+[19:58:02.0] The Time is 19:58
+[19:59:02.1] The Time is 19:59
+[20:00:16.7] The Time is 20:00
+[20:01:02.3] The Time is 20:01
+[20:02:09.5] The Time is 20:02
+[20:03:19.8] The Time is 20:03
+[20:04:03.1] The Time is 20:04
+[20:05:17.5] The Time is 20:05
+[20:06:10.1] The Time is 20:06
+[20:07:09.0] The Time is 20:07
+[20:08:01.9] The Time is 20:08
+[20:09:04.5] The Time is 20:09
+[20:10:12.0] The Time is 20:10
+[20:11:07.5] The Time is 20:11
+[20:12:02.6] The Time is 20:12
+[20:13:02.9] The Time is 20:13
+[20:14:02.3] The Time is 20:14
+[20:15:05.8] The Time is 20:15
+[20:16:15.6] The Time is 20:16
+[20:17:06.4] The Time is 20:17
+[20:18:06.0] The Time is 20:18
+[20:19:02.0] The Time is 20:19
+[20:20:14.3] The Time is 20:20
+[20:21:06.7] The Time is 20:21
+[20:22:02.0] The Time is 20:22
+[20:23:07.0] The Time is 20:23
+[20:24:02.3] The Time is 20:24
+[20:25:11.6] The Time is 20:25
+[20:26:10.5] The Time is 20:26
+[20:27:11.3] The Time is 20:27
+[20:28:10.7] The Time is 20:28
+[20:29:04.5] The Time is 20:29
+[20:30:05.0] The Time is 20:30
+[20:31:02.3] The Time is 20:31
+[20:32:01.9] The Time is 20:32
+[20:33:02.1] The Time is 20:33
+[20:34:08.0] The Time is 20:34
+[20:35:01.9] The Time is 20:35
+[20:36:04.5] The Time is 20:36
+[20:37:07.1] The Time is 20:37
+[20:38:19.9] The Time is 20:38
+[20:39:02.0] The Time is 20:39
+[20:40:11.1] The Time is 20:40
+[20:41:04.2] The Time is 20:41
+[20:42:01.9] The Time is 20:42
+[20:43:02.8] The Time is 20:43
+[20:44:08.8] The Time is 20:44
+[20:45:01.9] The Time is 20:45
+[20:46:02.3] The Time is 20:46
+[20:47:02.2] The Time is 20:47
+[20:48:02.7] The Time is 20:48
+[20:49:04.3] The Time is 20:49
+[20:50:04.3] The Time is 20:50
+[20:51:03.6] The Time is 20:51
+[20:52:09.5] The Time is 20:52
+[20:53:21.8] The Time is 20:53
+[20:54:02.3] The Time is 20:54
+[20:55:08.4] The Time is 20:55
+[20:56:02.1] The Time is 20:56
+[20:57:06.1] The Time is 20:57
+[20:58:13.2] The Time is 20:58
+[20:59:15.8] The Time is 20:59
+[21:00:17.0] The Time is 21:00
+[21:01:19.6] The Time is 21:01
+[21:02:03.2] The Time is 21:02
+[21:03:02.4] The Time is 21:03
+[21:04:01.9] The Time is 21:04
+[21:05:02.2] The Time is 21:05
+[21:06:02.2] The Time is 21:06
+[21:07:02.4] The Time is 21:07
+[21:08:19.6] The Time is 21:08
+[21:09:22.2] The Time is 21:09
+[21:10:14.5] The Time is 21:10
+[21:11:17.1] The Time is 21:11
+[21:12:14.7] The Time is 21:12
+[21:13:19.6] The Time is 21:13
+[21:14:22.2] The Time is 21:14
+[21:15:10.9] The Time is 21:15
+[21:16:13.5] The Time is 21:16
+[21:17:02.0] The Time is 21:17
+[21:18:19.9] The Time is 21:18
+[21:19:09.3] The Time is 21:19
+[21:20:02.4] The Time is 21:20
+[21:21:21.1] The Time is 21:21
+[21:22:02.2] The Time is 21:22
+[21:23:04.8] The Time is 21:23
+[21:24:02.0] The Time is 21:24
+[21:25:02.2] The Time is 21:25
+[21:26:04.8] The Time is 21:26
+[21:27:07.4] The Time is 21:27
+[21:28:19.8] The Time is 21:28
+[21:29:14.1] The Time is 21:29
+[21:30:01.9] The Time is 21:30
+[21:31:04.5] The Time is 21:31
+[21:32:02.3] The Time is 21:32
+[21:33:11.7] The Time is 21:33
+[21:34:02.0] The Time is 21:34
+[21:35:10.5] The Time is 21:35
+[21:36:21.1] The Time is 21:36
+[21:37:02.0] The Time is 21:37
+[21:38:10.5] The Time is 21:38
+[21:39:11.0] The Time is 21:39
+[21:40:02.0] The Time is 21:40
+[21:41:10.4] The Time is 21:41
+[21:42:10.9] The Time is 21:42
+[21:43:10.1] The Time is 21:43
+[21:44:02.3] The Time is 21:44
+[21:45:02.5] The Time is 21:45
+[21:46:01.9] The Time is 21:46
+[21:47:02.1] The Time is 21:47
+[21:48:02.3] The Time is 21:48
+[21:49:01.9] The Time is 21:49
+[21:50:02.1] The Time is 21:50
+[21:51:02.2] The Time is 21:51
+[21:52:02.4] The Time is 21:52
+[21:53:02.0] The Time is 21:53
+[21:54:02.3] The Time is 21:54
+[21:55:02.5] The Time is 21:55
+[21:56:02.0] The Time is 21:56
+[21:57:02.2] The Time is 21:57
+[21:58:02.4] The Time is 21:58
+[21:59:02.0] The Time is 21:59
+[22:00:02.2] The Time is 22:00
+[22:01:02.4] The Time is 22:01
+[22:02:02.0] The Time is 22:02
+[22:03:02.1] The Time is 22:03
+[22:04:02.3] The Time is 22:04
+[22:05:03.7] The Time is 22:05
+[22:06:02.1] The Time is 22:06
+[22:07:02.3] The Time is 22:07
+[22:08:02.6] The Time is 22:08
+[22:09:02.0] The Time is 22:09
+[22:10:02.2] The Time is 22:10
+[22:11:02.4] The Time is 22:11
+[22:12:01.9] The Time is 22:12
+[22:13:02.2] The Time is 22:13
+[22:14:02.3] The Time is 22:14
+[22:15:01.9] The Time is 22:15
+[22:16:02.1] The Time is 22:16
+[22:17:02.4] The Time is 22:17
+[22:18:01.9] The Time is 22:18
+[22:19:03.6] The Time is 22:19
+[22:20:13.5] The Time is 22:20
+[22:21:10.1] The Time is 22:21
+[22:22:16.1] The Time is 22:22
+[22:23:10.2] The Time is 22:23
+[22:24:17.1] The Time is 22:24
+[22:25:09.8] The Time is 22:25
+[22:26:02.2] The Time is 22:26
+[22:27:14.2] The Time is 22:27
+[22:28:10.8] The Time is 22:28
+[22:29:02.2] The Time is 22:29
+[22:30:02.4] The Time is 22:30
+[22:31:12.4] The Time is 22:31
+[22:32:02.2] The Time is 22:32
+[22:33:02.4] The Time is 22:33
+[22:34:06.7] The Time is 22:34
+[22:35:02.2] The Time is 22:35
+[22:36:05.3] The Time is 22:36
+[22:37:06.1] The Time is 22:37
+[22:38:20.1] The Time is 22:38
+[22:39:02.4] The Time is 22:39
+[22:40:06.2] The Time is 22:40
+[22:41:02.5] The Time is 22:41
+[22:42:09.8] The Time is 22:42
+[22:43:02.0] The Time is 22:43
+[22:44:02.5] The Time is 22:44
+[22:45:04.3] The Time is 22:45
+[22:46:06.2] The Time is 22:46
+[22:47:06.2] The Time is 22:47
+[22:48:02.4] The Time is 22:48
+[22:49:02.0] The Time is 22:49
+[22:50:02.2] The Time is 22:50
+[22:51:02.4] The Time is 22:51
+[22:52:02.0] The Time is 22:52
+[22:53:08.3] The Time is 22:53
+[22:54:12.6] The Time is 22:54
+[22:55:05.4] The Time is 22:55
+[22:56:03.5] The Time is 22:56
+[22:57:06.1] The Time is 22:57
+[22:58:06.1] The Time is 22:58
+[22:59:04.8] The Time is 22:59
+[23:00:10.4] The Time is 23:00
+[23:01:02.0] The Time is 23:01
+[23:02:02.2] The Time is 23:02
+[23:03:06.2] The Time is 23:03
+[23:04:06.1] The Time is 23:04
+[23:05:05.3] The Time is 23:05
+[23:06:02.4] The Time is 23:06
+[23:07:02.1] The Time is 23:07
+[23:08:06.1] The Time is 23:08
+[23:09:06.1] The Time is 23:09
+[23:10:03.4] The Time is 23:10
+[23:11:04.6] The Time is 23:11
+[23:12:09.1] The Time is 23:12
+[23:13:06.1] The Time is 23:13
+[23:14:06.1] The Time is 23:14
+[23:15:05.1] The Time is 23:15
+[23:16:02.1] The Time is 23:16
+[23:17:02.3] The Time is 23:17
+[23:18:01.9] The Time is 23:18
+[23:19:09.8] The Time is 23:19
+[23:20:02.9] The Time is 23:20
+[23:21:03.7] The Time is 23:21
+[23:22:02.4] The Time is 23:22
+[23:23:07.3] The Time is 23:23
+[23:24:07.7] The Time is 23:24
+[23:25:08.0] The Time is 23:25
+[23:26:06.1] The Time is 23:26
+[23:27:10.5] The Time is 23:27
+[23:28:06.1] The Time is 23:28
+[23:29:02.3] The Time is 23:29
+[23:30:02.2] The Time is 23:30
+[23:31:02.4] The Time is 23:31
+[23:32:04.3] The Time is 23:32
+[23:33:06.1] The Time is 23:33
+[23:34:06.1] The Time is 23:34
+[23:35:06.1] The Time is 23:35
+[23:36:07.0] The Time is 23:36
+[23:37:06.1] The Time is 23:37
+[23:38:05.3] The Time is 23:38
+[23:39:06.1] The Time is 23:39
+[23:40:01.9] The Time is 23:40
+[23:41:10.1] The Time is 23:41
+[23:42:05.4] The Time is 23:42
+[23:43:09.0] The Time is 23:43
+[23:44:10.9] The Time is 23:44
+[23:45:02.3] The Time is 23:45
+[23:46:10.7] The Time is 23:46
+[23:47:09.4] The Time is 23:47
+[23:48:13.3] The Time is 23:48
+[23:49:09.1] The Time is 23:49
+[23:50:15.7] The Time is 23:50
+[23:51:02.6] The Time is 23:51
+[23:52:02.0] The Time is 23:52
+[23:53:05.7] The Time is 23:53
+[23:54:05.3] The Time is 23:54
+[23:55:18.0] The Time is 23:55
+[23:56:06.7] The Time is 23:56
+[23:57:05.0] The Time is 23:57
+[23:58:02.0] The Time is 23:58
+[23:59:04.3] The Time is 23:59
+[00:00:07.3] The Time is 00:00
+[00:01:14.7] The Time is 00:01
+[00:02:06.8] The Time is 00:02
+[00:03:03.9] The Time is 00:03
+[00:04:15.7] The Time is 00:04
+[00:05:02.3] The Time is 00:05
+[00:06:10.7] The Time is 00:06
+[00:07:02.7] The Time is 00:07
+[00:08:02.9] The Time is 00:08
+[00:09:06.7] The Time is 00:09
+[00:10:16.0] The Time is 00:10
+[00:11:15.1] The Time is 00:11
+[00:12:02.5] The Time is 00:12
+[00:13:02.1] The Time is 00:13
+[00:14:14.9] The Time is 00:14
+[00:15:21.6] The Time is 00:15
+[00:16:02.1] The Time is 00:16
+[00:17:03.0] The Time is 00:17
+[00:18:06.7] The Time is 00:18
+[00:19:19.5] The Time is 00:19
+[00:20:02.6] The Time is 00:20
+[00:21:02.0] The Time is 00:21
+[00:22:09.0] The Time is 00:22
+[00:23:02.4] The Time is 00:23
+[00:24:05.8] The Time is 00:24
+[00:25:08.5] The Time is 00:25
+[00:26:12.4] The Time is 00:26
+[00:27:10.3] The Time is 00:27
+[00:28:02.3] The Time is 00:28
+[00:29:02.5] The Time is 00:29
+[00:30:02.1] The Time is 00:30
+[00:31:09.2] The Time is 00:31
+[00:32:02.2] The Time is 00:32
+[00:32:41.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:41.5] System: onIRmsg in [IdleState]
+[00:32:42.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:42.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:42.7] System: onIRmsg in [IdleState]
+[00:32:42.7] System: Transition [IdleState] -> [AlarmMenu]
+[00:32:44.1] Alarm State:  on
+[00:32:44.1] Alarm State:    
+[00:32:44.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:44.3] Alarm State:  on
+[00:32:44.8] Alarm State:    
+[00:32:44.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:44.9] System: onIRmsg in [AlarmMenu]
+[00:32:45.0]     New Alarm: 11:00
+[00:32:45.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:45.4]     New Alarm: 11:00
+[00:32:46.0]     New Alarm: 11:00
+[00:32:46.5]     New Alarm: 11:00
+[00:32:46.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:46.7] System: onIRmsg in [AlarmMenu]
+[00:32:46.7]     New Alarm: 11:00
+[00:32:46.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:47.1]     New Alarm: 11:00
+[00:32:47.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:47.6] System: onIRmsg in [AlarmMenu]
+[00:32:47.6]     New Alarm: 11:00
+[00:32:47.6]     New Alarm: 11:00
+[00:32:47.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:47.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:47.9] System: onIRmsg in [AlarmMenu]
+[00:32:47.9]     New Alarm: 11:00
+[00:32:47.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:48.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:48.2] System: onIRmsg in [AlarmMenu]
+[00:32:48.2]     New Alarm: 11:00
+[00:32:48.3]     New Alarm: 11:00
+[00:32:48.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:48.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:48.5] System: onIRmsg in [AlarmMenu]
+[00:32:48.5]     New Alarm: 11:00
+[00:32:48.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:48.8]     New Alarm: 11:00
+[00:32:48.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:48.9] System: onIRmsg in [AlarmMenu]
+[00:32:48.9]     New Alarm: 10:00
+[00:32:49.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:49.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:49.2] System: onIRmsg in [AlarmMenu]
+[00:32:49.2]     New Alarm: 09:00
+[00:32:49.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:49.4]     New Alarm: 09:00
+[00:32:49.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:49.4] System: onIRmsg in [AlarmMenu]
+[00:32:49.5]     New Alarm: 08:00
+[00:32:49.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:49.9]     New Alarm: 08:00
+[00:32:50.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:50.1] System: onIRmsg in [AlarmMenu]
+[00:32:50.1]     New Alarm: 07:00
+[00:32:50.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:50.4]     New Alarm: 07:00
+[00:32:51.0]     New Alarm: 07:00
+[00:32:51.5]     New Alarm: 07:00
+[00:32:51.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:51.6] System: onIRmsg in [AlarmMenu]
+[00:32:51.7]     New Alarm: 08:00
+[00:32:51.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:52.1]     New Alarm: 08:00
+[00:32:52.7]     New Alarm: 08:00
+[00:32:53.2]     New Alarm: 08:00
+[00:32:53.8]     New Alarm: 08:00
+[00:32:54.3]     New Alarm: 08:00
+[00:32:54.9]     New Alarm: 08:00
+[00:32:55.4]     New Alarm: 08:00
+[00:32:56.0]     New Alarm: 08:00
+[00:32:56.6]     New Alarm: 08:00
+[00:32:57.1]     New Alarm: 08:00
+[00:32:57.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:57.7] System: onIRmsg in [AlarmMenu]
+[00:32:57.8]     New Alarm: 07:00
+[00:32:57.8]     New Alarm: 07:00
+[00:32:57.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:58.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:58.3] System: onIRmsg in [AlarmMenu]
+[00:32:58.3]     New Alarm: 07:00
+[00:32:58.3]     New Alarm: 07:00
+[00:32:58.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:58.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:58.8] System: onIRmsg in [AlarmMenu]
+[00:32:58.8]     New Alarm: 07:59
+[00:32:58.9]     New Alarm: 07:59
+[00:32:58.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.3] System: onIRmsg in [AlarmMenu]
+[00:32:59.3]     New Alarm: 07:58
+[00:32:59.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.4]     New Alarm: 07:58
+[00:32:59.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.5] System: onIRmsg in [AlarmMenu]
+[00:32:59.6]     New Alarm: 07:57
+[00:32:59.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.8] System: onIRmsg in [AlarmMenu]
+[00:32:59.8]     New Alarm: 07:56
+[00:32:59.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:32:59.9]     New Alarm: 07:56
+[00:33:00.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:00.1] System: onIRmsg in [AlarmMenu]
+[00:33:00.1]     New Alarm: 07:55
+[00:33:00.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:00.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:00.3] System: onIRmsg in [AlarmMenu]
+[00:33:00.4]     New Alarm: 07:54
+[00:33:00.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:00.5]     New Alarm: 07:54
+[00:33:00.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:00.6] System: onIRmsg in [AlarmMenu]
+[00:33:00.6]     New Alarm: 07:53
+[00:33:00.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:00.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.0] System: onIRmsg in [AlarmMenu]
+[00:33:01.0]     New Alarm: 07:53
+[00:33:01.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.1]     New Alarm: 07:53
+[00:33:01.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.2] System: onIRmsg in [AlarmMenu]
+[00:33:01.3]     New Alarm: 07:53
+[00:33:01.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.5] System: onIRmsg in [AlarmMenu]
+[00:33:01.6]     New Alarm: 07:52
+[00:33:01.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.7]     New Alarm: 07:52
+[00:33:01.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:01.8] System: onIRmsg in [AlarmMenu]
+[00:33:01.8]     New Alarm: 07:51
+[00:33:01.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.1] System: onIRmsg in [AlarmMenu]
+[00:33:02.1]     New Alarm: 07:50
+[00:33:02.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.2]     New Alarm: 07:50
+[00:33:02.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.3] System: onIRmsg in [AlarmMenu]
+[00:33:02.3]     New Alarm: 07:49
+[00:33:02.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.6] System: onIRmsg in [AlarmMenu]
+[00:33:02.6]     New Alarm: 07:48
+[00:33:02.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.7]     New Alarm: 07:48
+[00:33:02.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:02.8] System: onIRmsg in [AlarmMenu]
+[00:33:02.9]     New Alarm: 07:47
+[00:33:02.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.2] System: onIRmsg in [AlarmMenu]
+[00:33:03.2]     New Alarm: 07:47
+[00:33:03.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.3]     New Alarm: 07:47
+[00:33:03.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.4] System: onIRmsg in [AlarmMenu]
+[00:33:03.5]     New Alarm: 07:47
+[00:33:03.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.7] System: onIRmsg in [AlarmMenu]
+[00:33:03.8]     New Alarm: 07:47
+[00:33:03.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:03.9]     New Alarm: 07:47
+[00:33:03.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.0] System: onIRmsg in [AlarmMenu]
+[00:33:04.0]     New Alarm: 07:47
+[00:33:04.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.3] System: onIRmsg in [AlarmMenu]
+[00:33:04.3]     New Alarm: 07:46
+[00:33:04.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.4]     New Alarm: 07:46
+[00:33:04.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.5] System: onIRmsg in [AlarmMenu]
+[00:33:04.6]     New Alarm: 07:45
+[00:33:04.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.8] System: onIRmsg in [AlarmMenu]
+[00:33:04.8]     New Alarm: 07:44
+[00:33:04.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:04.9]     New Alarm: 07:44
+[00:33:05.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:05.1] System: onIRmsg in [AlarmMenu]
+[00:33:05.1]     New Alarm: 07:43
+[00:33:05.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:05.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:05.4] System: onIRmsg in [AlarmMenu]
+[00:33:05.5]     New Alarm: 07:43
+[00:33:05.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:05.6]     New Alarm: 07:43
+[00:33:05.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:05.7] System: onIRmsg in [AlarmMenu]
+[00:33:05.7]     New Alarm: 07:43
+[00:33:05.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:05.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.0] System: onIRmsg in [AlarmMenu]
+[00:33:06.0]     New Alarm: 07:43
+[00:33:06.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.1]     New Alarm: 07:43
+[00:33:06.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.2] System: onIRmsg in [AlarmMenu]
+[00:33:06.3]     New Alarm: 07:43
+[00:33:06.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.5] System: onIRmsg in [AlarmMenu]
+[00:33:06.5]     New Alarm: 07:42
+[00:33:06.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.6]     New Alarm: 07:42
+[00:33:06.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:06.8] System: onIRmsg in [AlarmMenu]
+[00:33:06.8]     New Alarm: 07:41
+[00:33:06.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.1] System: onIRmsg in [AlarmMenu]
+[00:33:07.1]     New Alarm: 07:40
+[00:33:07.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.2]     New Alarm: 07:40
+[00:33:07.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.3] System: onIRmsg in [AlarmMenu]
+[00:33:07.4]     New Alarm: 07:39
+[00:33:07.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.6] System: onIRmsg in [AlarmMenu]
+[00:33:07.6]     New Alarm: 07:38
+[00:33:07.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:07.7]     New Alarm: 07:38
+[00:33:08.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:08.2] System: onIRmsg in [AlarmMenu]
+[00:33:08.3]     New Alarm: 07:38
+[00:33:08.3]     New Alarm: 07:38
+[00:33:08.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:08.8]     New Alarm: 07:38
+[00:33:08.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:09.0] System: onIRmsg in [AlarmMenu]
+[00:33:09.0]     New Alarm: 07:38
+[00:33:09.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:09.4]     New Alarm: 07:38
+[00:33:09.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:09.5] System: onIRmsg in [AlarmMenu]
+[00:33:09.5]     New Alarm: 07:37
+[00:33:09.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:09.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.0] System: onIRmsg in [AlarmMenu]
+[00:33:10.0]     New Alarm: 07:37
+[00:33:10.1]     New Alarm: 07:37
+[00:33:10.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.3] System: onIRmsg in [AlarmMenu]
+[00:33:10.3]     New Alarm: 07:37
+[00:33:10.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.5] System: onIRmsg in [AlarmMenu]
+[00:33:10.5]     New Alarm: 07:36
+[00:33:10.6]     New Alarm: 07:36
+[00:33:10.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:10.8] System: onIRmsg in [AlarmMenu]
+[00:33:10.8]     New Alarm: 07:35
+[00:33:10.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.0] System: onIRmsg in [AlarmMenu]
+[00:33:11.1]     New Alarm: 07:34
+[00:33:11.1]     New Alarm: 07:34
+[00:33:11.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.3] System: onIRmsg in [AlarmMenu]
+[00:33:11.3]     New Alarm: 07:33
+[00:33:11.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.7] System: onIRmsg in [AlarmMenu]
+[00:33:11.7]     New Alarm: 07:33
+[00:33:11.7]     New Alarm: 07:33
+[00:33:11.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:11.9] System: onIRmsg in [AlarmMenu]
+[00:33:12.0]     New Alarm: 07:33
+[00:33:12.2]     New Alarm: 07:33
+[00:33:12.7]     New Alarm: 07:33
+[00:33:12.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:12.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:13.0] System: onIRmsg in [AlarmMenu]
+[00:33:13.0]     New Alarm: 07:32
+[00:33:13.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:13.3]     New Alarm: 07:32
+[00:33:13.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:13.4] System: onIRmsg in [AlarmMenu]
+[00:33:13.4]     New Alarm: 07:31
+[00:33:13.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:13.9]     New Alarm: 07:31
+[00:33:14.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:14.0] System: onIRmsg in [AlarmMenu]
+[00:33:14.1]     New Alarm: 07:30
+[00:33:14.4]     New Alarm: 07:30
+[00:33:14.9]     New Alarm: 07:30
+[00:33:15.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:15.5]     New Alarm: 07:30
+[00:33:15.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:15.6] System: onIRmsg in [AlarmMenu]
+[00:33:15.6]     Save Alarm Settings 2116-76-132 07:30:01 ON
+[00:33:16.2] System: Transition [AlarmMenu] -> [IdleState]
+[00:33:16.3] The Time is 00:33
+[00:33:27.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:27.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:27.4] System: onIRmsg in [IdleState]
+[00:33:27.4] System: Transition [IdleState] -> [AlarmMenu]
+[00:33:28.8] Alarm State:  on
+[00:33:28.8] Alarm State:    
+[00:33:29.0] Alarm State:  on
+[00:33:29.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:29.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:29.4] System: onIRmsg in [AlarmMenu]
+[00:33:29.5]     New Alarm: 07:30
+[00:33:29.6]     New Alarm: 07:30
+[00:33:30.1]     New Alarm: 07:30
+[00:33:30.7]     New Alarm: 07:30
+[00:33:30.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:30.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.0] System: onIRmsg in [AlarmMenu]
+[00:33:31.1]     New Alarm: 07:31
+[00:33:31.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.3] System: onIRmsg in [AlarmMenu]
+[00:33:31.3]     New Alarm: 07:32
+[00:33:31.3]     New Alarm: 07:32
+[00:33:31.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.5] System: onIRmsg in [AlarmMenu]
+[00:33:31.6]     New Alarm: 07:33
+[00:33:31.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:31.8] System: onIRmsg in [AlarmMenu]
+[00:33:31.9]     New Alarm: 07:34
+[00:33:31.9]     New Alarm: 07:34
+[00:33:31.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.1] System: onIRmsg in [AlarmMenu]
+[00:33:32.2]     New Alarm: 07:34
+[00:33:32.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.4] System: onIRmsg in [AlarmMenu]
+[00:33:32.4]     New Alarm: 07:34
+[00:33:32.5]     New Alarm: 07:34
+[00:33:32.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.7] System: onIRmsg in [AlarmMenu]
+[00:33:32.7]     New Alarm: 07:34
+[00:33:32.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:32.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:33.0] System: onIRmsg in [AlarmMenu]
+[00:33:33.0]     New Alarm: 07:34
+[00:33:33.0]     New Alarm: 07:34
+[00:33:33.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:33.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:33.3] System: onIRmsg in [AlarmMenu]
+[00:33:33.3]     New Alarm: 07:35
+[00:33:33.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:33.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:33:33.5] System: onIRmsg in [AlarmMenu]
+[00:33:33.6]     New Alarm: 07:36
+[00:33:33.6]     New Alarm: 07:36
+[00:33:33.6] WAThe Time is 00:34
+[00:35:20.9] The Time is 00:35
+[00:36:02.7] The Time is 00:36
+[00:37:02.9] The Time is 00:37
+[00:38:02.2] The Time is 00:38
+[00:39:02.5] The Time is 00:39
+[00:40:02.1] The Time is 00:40
+[00:41:02.3] The Time is 00:41
+[00:42:02.5] The Time is 00:42
+[00:43:02.1] The Time is 00:43
+[00:44:02.3] The Time is 00:44
+[00:45:02.5] The Time is 00:45
+[00:46:02.1] The Time is 00:46
+[00:46:15.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:16.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:16.5] System: onIRmsg in [IdleState]
+[00:46:16.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:16.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:16.8] System: onIRmsg in [IdleState]
+[00:46:17.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:17.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:17.7] System: onIRmsg in [IdleState]
+[00:46:17.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:20.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:20.4] System: onIRmsg in [IdleState]
+[00:46:20.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:22.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:22.6] System: onIRmsg in [IdleState]
+[00:46:22.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:24.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:25.0] System: onIRmsg in [IdleState]
+[00:46:25.0] System: Transition [IdleState] -> [SoundMenu]
+[00:46:25.1] System: onIRmsg in [SoundMenu]
+[00:46:25.1]     Set level to 21, volume to 70
+[00:46:25.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:25.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:25.6] System: onIRmsg in [SoundMenu]
+[00:46:25.6]     Set level to 0, volume to 0
+[00:46:25.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:26.6] System: Transition [SoundMenu] -> [IdleState]
+[00:46:26.7] The Time is 00:46
+[00:46:38.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:38.5] System: onIRmsg in [IdleState]
+[00:46:38.5] System: Transition [IdleState] -> [LightMenu]
+[00:46:38.6] System: onIRmsg in [LightMenu]
+[00:46:38.6]     Set light to 1/31
+[00:46:38.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:38.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:38.8] System: onIRmsg in [LightMenu]
+[00:46:38.8]     Set light to 2/31
+[00:46:38.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:39.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:39.0] System: onIRmsg in [LightMenu]
+[00:46:39.0]     Set light to 3/31
+[00:46:39.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:39.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:39.3] System: onIRmsg in [LightMenu]
+[00:46:39.3]     Set light to 4/31
+[00:46:39.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:39.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:46:39.6] System: onIRmsg in [LightMenu]
+[00:46:39.6]     Set light to 5/31
+[00:46:40.5] System: Transition [LightMenu] -> [IdleState]
+[00:46:40.6] The Time is 00:46
+[00:48:09.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:48:09.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[00:48:09.3] System: onIRmsg in [IdleState]
+[00:48:09.3] System: Transition [IdleState] -> [LightMenu]
+[00:48:09.4] System: onIRmsg in [LightMenu]
+[00:48:09.4]     Set light to 4/31
+[00:48:10.4] System: Transition [LightMenu] -> [IdleState]
+[00:48:10.4] The Time is 00:48
+[01:10:50.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[01:10:50.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[01:10:50.7] System: onIRmsg in [IdleState]
+[01:10:51.0] The Time is 01:10
+[01:10:51.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[01:10:51.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[01:10:51.9] System: onIRmsg in [IdleState]
+[08:00:30.7] System: Transition [IdleState] -> [AlarmState]
+[08:00:30.7]     ===========
+[08:00:30.7]     | WAKE UP |
+[08:00:30.7]     ===========
+[08:00:30.7] The Time is 08:00
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 0/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 1/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 2/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 3/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:30.7] Wakeup Level: 4/200
+[08:00:31.2] Wakeup Level: 5/200
+[08:00:31.8] Wakeup Level: 5/200
+[08:00:32.3] Wakeup Level: 5/200
+[08:00:32.9] Wakeup Level: 5/200
+[08:00:33.5] Wakeup Level: 5/200
+[08:00:34.0] Wakeup Level: 5/200
+[08:00:34.6] Wakeup Level: 5/200
+[08:00:35.1] Wakeup Level: 5/200
+[08:00:35.7] Wakeup Level: 5/200
+[08:00:36.2] Wakeup Level: 5/200
+[08:00:36.8] Wakeup Level: 5/200
+[08:00:37.4] Wakeup Level: 6/200
+[08:00:37.9] Wakeup Level: 6/200
+[08:00:38.5] Wakeup Level: 6/200
+[08:00:39.0] Wakeup Level: 6/200
+[08:00:39.6] Wakeup Level: 6/200
+[08:00:40.1] Wakeup Level: 6/200
+[08:00:40.7] Wakeup Level: 6/200
+[08:00:41.3] Wakeup Level: 6/200
+[08:00:41.8] Wakeup Level: 6/200
+[08:00:42.4] Wakeup Level: 7/200
+[08:00:42.9] Wakeup Level: 7/200
+[08:00:43.5] Wakeup Level: 7/200
+[08:00:44.0] Wakeup Level: 7/200
+[08:00:44.6] Wakeup Level: 7/200
+[08:00:45.2] Wakeup Level: 7/200
+[08:00:45.7] Wakeup Level: 7/200
+[08:00:46.3] Wakeup Level: 7/200
+[08:00:46.8] Wakeup Level: 7/200
+[08:00:47.4] Wakeup Level: 7/200
+[08:00:47.9] Wakeup Level: 7/200
+[08:00:48.5] Wakeup Level: 8/200
+[08:00:49.1] Wakeup Level: 8/200
+[08:00:49.6] Wakeup Level: 8/200
+[08:00:50.2] Wakeup Level: 8/200
+[08:00:50.7] Wakeup Level: 8/200
+[08:00:51.3] Wakeup Level: 8/200
+[08:00:51.8] Wakeup Level: 8/200
+[08:00:52.4] Wakeup Level: 8/200
+[08:00:53.0] Wakeup Level: 8/200
+[08:00:53.5] Wakeup Level: 8/200
+[08:00:54.1] Wakeup Level: 8/200
+[08:00:54.6] Wakeup Level: 9/200
+[08:00:55.2] Wakeup Level: 9/200
+[08:00:55.7] Wakeup Level: 9/200
+[08:00:56.3] Wakeup Level: 9/200
+[08:00:56.9] Wakeup Level: 9/200
+[08:00:57.4] Wakeup Level: 9/200
+[08:00:58.0] Wakeup Level: 9/200
+[08:00:58.5] Wakeup Level: 9/200
+[08:00:59.1] Wakeup Level: 9/200
+[08:00:59.6] Wakeup Level: 10/200
+[08:01:00.2] Wakeup Level: 10/200
+[08:01:00.8] Wakeup Level: 10/200
+[08:01:01.3] Wakeup Level: 10/200
+[08:01:01.9] Wakeup Level: 10/200
+[08:01:02.4] Wakeup Level: 10/200
+[08:01:02.5] The Time is 08:01
+[08:01:03.0] Wakeup Level: 10/200
+[08:01:03.6] Wakeup Level: 10/200
+[08:01:04.1] Wakeup Level: 10/200
+[08:01:04.7] Wakeup Level: 10/200
+[08:01:05.2] Wakeup Level: 11/200
+[08:01:05.8] Wakeup Level: 11/200
+[08:01:06.3] Wakeup Level: 11/200
+[08:01:06.9] Wakeup Level: 11/200
+[08:01:07.5] Wakeup Level: 11/200
+[08:01:08.0] Wakeup Level: 11/200
+[08:01:08.6] Wakeup Level: 11/200
+[08:01:09.1] Wakeup Level: 11/200
+[08:01:09.7] Wakeup Level: 11/200
+[08:01:10.2] Wakeup Level: 11/200
+[08:01:10.8] Wakeup Level: 11/200
+[08:01:11.4] Wakeup Level: 12/200
+[08:01:11.9] Wakeup Level: 12/200
+[08:01:12.5] Wakeup Level: 12/200
+[08:01:13.0] Wakeup Level: 12/200
+[08:01:13.6] Wakeup Level: 12/200
+[08:01:14.1] Wakeup Level: 12/200
+[08:01:14.7] Wakeup Level: 12/200
+[08:01:15.3] Wakeup Level: 12/200
+[08:01:15.8] Wakeup Level: 12/200
+[08:01:16.4] Wakeup Level: 12/200
+[08:01:16.9] Wakeup Level: 12/200
+[08:01:17.5] Wakeup Level: 13/200
+[08:01:18.0] Wakeup Level: 13/200
+[08:01:18.6] Wakeup Level: 13/200
+[08:01:19.2] Wakeup Level: 13/200
+[08:01:19.7] Wakeup Level: 13/200
+[08:01:20.3] Wakeup Level: 13/200
+[08:01:20.8] Wakeup Level: 13/200
+[08:01:21.4] Wakeup Level: 13/200
+[08:01:21.9] Wakeup Level: 13/200
+[08:01:22.5] Wakeup Level: 14/200
+[08:01:23.1] Wakeup Level: 14/200
+[08:01:23.6] Wakeup Level: 14/200
+[08:01:24.2] Wakeup Level: 14/200
+[08:01:24.7] Wakeup Level: 14/200
+[08:01:25.3] Wakeup Level: 14/200
+[08:01:25.9] Wakeup Level: 14/200
+[08:01:26.4] Wakeup Level: 14/200
+[08:01:27.0] Wakeup Level: 14/200
+[08:01:27.5] Wakeup Level: 14/200
+[08:01:28.1] Wakeup Level: 14/200
+[08:01:28.6] Wakeup Level: 15/200
+[08:01:29.2] Wakeup Level: 15/200
+[08:01:29.8] Wakeup Level: 15/200
+[08:01:30.3] Wakeup Level: 15/200
+[08:01:30.9] Wakeup Level: 15/200
+[08:01:31.4] Wakeup Level: 15/200
+[08:01:32.0] Wakeup Level: 15/200
+[08:01:32.5] Wakeup Level: 15/200
+[08:01:33.1] Wakeup Level: 15/200
+[08:01:33.7] Wakeup Level: 15/200
+[08:01:34.2] Wakeup Level: 15/200
+[08:01:34.8] Wakeup Level: 16/200
+[08:01:35.3] Wakeup Level: 16/200
+[08:01:35.9] Wakeup Level: 16/200
+[08:01:36.4] Wakeup Level: 16/200
+[08:01:37.0] Wakeup Level: 16/200
+[08:01:37.6] Wakeup Level: 16/200
+[08:01:38.1] Wakeup Level: 16/200
+[08:01:38.7] Wakeup Level: 16/200
+[08:01:39.2] Wakeup Level: 17/200
+[08:01:39.8] Wakeup Level: 17/200
+[08:01:40.3] Wakeup Level: 17/200
+[08:01:40.9] Wakeup Level: 17/200
+[08:01:41.5] Wakeup Level: 17/200
+[08:01:42.0] Wakeup Level: 17/200
+[08:01:42.6] Wakeup Level: 17/200
+[08:01:43.1] Wakeup Level: 17/200
+[08:01:43.7] Wakeup Level: 17/200
+[08:01:44.2] Wakeup Level: 17/200
+[08:01:44.8] Wakeup Level: 17/200
+[08:01:45.4] Wakeup Level: 18/200
+[08:01:45.9] Wakeup Level: 18/200
+[08:01:46.5] Wakeup Level: 18/200
+[08:01:47.0] Wakeup Level: 18/200
+[08:01:47.6] Wakeup Level: 18/200
+[08:01:48.2] Wakeup Level: 18/200
+[08:01:48.7] Wakeup Level: 18/200
+[08:01:49.3] Wakeup Level: 18/200
+[08:01:49.8] Wakeup Level: 18/200
+[08:01:50.4] Wakeup Level: 18/200
+[08:01:50.9] Wakeup Level: 18/200
+[08:01:51.5] Wakeup Level: 19/200
+[08:01:52.1] Wakeup Level: 19/200
+[08:01:52.6] Wakeup Level: 19/200
+[08:01:53.2] Wakeup Level: 19/200
+[08:01:53.7] Wakeup Level: 19/200
+[08:01:54.3] Wakeup Level: 19/200
+[08:01:54.8] Wakeup Level: 19/200
+[08:01:55.4] Wakeup Level: 19/200
+[08:01:56.0] Wakeup Level: 19/200
+[08:01:56.5] Wakeup Level: 20/200
+[08:01:57.1] Wakeup Level: 20/200
+[08:01:57.6] Wakeup Level: 20/200
+[08:01:58.2] Wakeup Level: 20/200
+[08:01:58.7] Wakeup Level: 20/200
+[08:01:59.3] Wakeup Level: 20/200
+[08:01:59.9] Wakeup Level: 20/200
+[08:02:00.4] Wakeup Level: 20/200
+[08:02:01.0] Wakeup Level: 20/200
+[08:02:01.5] Wakeup Level: 20/200
+[08:02:02.1] Wakeup Level: 20/200
+[08:02:02.6] Wakeup Level: 21/200
+[08:02:02.7] The Time is 08:02
+[08:02:03.2] Wakeup Level: 21/200
+[08:02:03.8] Wakeup Level: 21/200
+[08:02:04.3] Wakeup Level: 21/200
+[08:02:04.9] Wakeup Level: 21/200
+[08:02:05.4] Wakeup Level: 21/200
+[08:02:06.0] Wakeup Level: 21/200
+[08:02:06.6] Wakeup Level: 21/200
+[08:02:07.1] Wakeup Level: 21/200
+[08:02:07.7] Wakeup Level: 21/200
+[08:02:08.2] Wakeup Level: 22/200
+[08:02:08.8] Wakeup Level: 22/200
+[08:02:09.3] Wakeup Level: 22/200
+[08:02:09.9] Wakeup Level: 22/200
+[08:02:10.5] Wakeup Level: 22/200
+[08:02:11.0] Wakeup Level: 22/200
+[08:02:11.6] Wakeup Level: 22/200
+[08:02:12.1] Wakeup Level: 22/200
+[08:02:12.7] Wakeup Level: 22/200
+[08:02:13.2] Wakeup Level: 22/200
+[08:02:13.8] Wakeup Level: 22/200
+[08:02:14.4] Wakeup Level: 23/200
+[08:02:14.9] Wakeup Level: 23/200
+[08:02:15.5] Wakeup Level: 23/200
+[08:02:16.0] Wakeup Level: 23/200
+[08:02:16.6] Wakeup Level: 23/200
+[08:02:17.1] Wakeup Level: 23/200
+[08:02:17.7] Wakeup Level: 23/200
+[08:02:18.3] Wakeup Level: 23/200
+[08:02:18.8] Wakeup Level: 23/200
+[08:02:19.4] Wakeup Level: 24/200
+[08:02:19.9] Wakeup Level: 24/200
+[08:02:20.5] Wakeup Level: 24/200
+[08:02:21.0] Wakeup Level: 24/200
+[08:02:21.6] Wakeup Level: 24/200
+[08:02:22.2] Wakeup Level: 24/200
+[08:02:22.7] Wakeup Level: 24/200
+[08:02:23.3] Wakeup Level: 24/200
+[08:02:23.8] Wakeup Level: 24/200
+[08:02:24.4] Wakeup Level: 24/200
+[08:02:25.0] Wakeup Level: 24/200
+[08:02:25.5] Wakeup Level: 25/200
+[08:02:26.1] Wakeup Level: 25/200
+[08:02:26.6] Wakeup Level: 25/200
+[08:02:27.2] Wakeup Level: 25/200
+[08:02:27.7] Wakeup Level: 25/200
+[08:02:28.3] Wakeup Level: 25/200
+[08:02:28.9] Wakeup Level: 25/200
+[08:02:29.4] Wakeup Level: 25/200
+[08:02:30.0] Wakeup Level: 25/200
+[08:02:30.5] Wakeup Level: 25/200
+[08:02:31.1] Wakeup Level: 25/200
+[08:02:31.6] Wakeup Level: 26/200
+[08:02:32.2] Wakeup Level: 26/200
+[08:02:32.8] Wakeup Level: 26/200
+[08:02:33.3] Wakeup Level: 26/200
+[08:02:33.9] Wakeup Level: 26/200
+[08:02:34.4] Wakeup Level: 26/200
+[08:02:35.0] Wakeup Level: 26/200
+[08:02:35.5] Wakeup Level: 26/200
+[08:02:36.1] Wakeup Level: 26/200
+[08:02:36.7] Wakeup Level: 27/200
+[08:02:37.2] Wakeup Level: 27/200
+[08:02:37.8] Wakeup Level: 27/200
+[08:02:38.3] Wakeup Level: 27/200
+[08:02:38.9] Wakeup Level: 27/200
+[08:02:39.5] Wakeup Level: 27/200
+[08:02:40.0] Wakeup Level: 27/200
+[08:02:40.6] Wakeup Level: 27/200
+[08:02:41.1] Wakeup Level: 27/200
+[08:02:41.7] Wakeup Level: 27/200
+[08:02:42.2] Wakeup Level: 28/200
+[08:02:42.8] Wakeup Level: 28/200
+[08:02:43.4] Wakeup Level: 28/200
+[08:02:43.9] Wakeup Level: 28/200
+[08:02:44.5] Wakeup Level: 28/200
+[08:02:45.0] Wakeup Level: 28/200
+[08:02:45.6] Wakeup Level: 28/200
+[08:02:46.1] Wakeup Level: 28/200
+[08:02:46.7] Wakeup Level: 28/200
+[08:02:47.3] Wakeup Level: 28/200
+[08:02:47.8] Wakeup Level: 28/200
+[08:02:48.4] Wakeup Level: 29/200
+[08:02:48.9] Wakeup Level: 29/200
+[08:02:49.5] Wakeup Level: 29/200
+[08:02:50.0] Wakeup Level: 29/200
+[08:02:50.6] Wakeup Level: 29/200
+[08:02:51.2] Wakeup Level: 29/200
+[08:02:51.7] Wakeup Level: 29/200
+[08:02:52.3] Wakeup Level: 29/200
+[08:02:52.8] Wakeup Level: 29/200
+[08:02:53.4] Wakeup Level: 30/200
+[08:02:53.9] Wakeup Level: 30/200
+[08:02:54.5] Wakeup Level: 30/200
+[08:02:55.1] Wakeup Level: 30/200
+[08:02:55.6] Wakeup Level: 30/200
+[08:02:56.2] Wakeup Level: 30/200
+[08:02:56.7] Wakeup Level: 30/200
+[08:02:57.3] Wakeup Level: 30/200
+[08:02:57.9] Wakeup Level: 30/200
+[08:02:58.4] Wakeup Level: 30/200
+[08:02:59.0] Wakeup Level: 30/200
+[08:02:59.5] Wakeup Level: 31/200
+[08:03:00.1] Wakeup Level: 31/200
+[08:03:00.6] Wakeup Level: 31/200
+[08:03:01.2] Wakeup Level: 31/200
+[08:03:01.8] Wakeup Level: 31/200
+[08:03:02.3] Wakeup Level: 31/200
+[08:03:02.3] The Time is 08:03
+[08:03:02.9] Wakeup Level: 31/200
+[08:03:03.4] Wakeup Level: 31/200
+[08:03:04.0] Wakeup Level: 31/200
+[08:03:04.5] Wakeup Level: 31/200
+[08:03:05.1] Wakeup Level: 31/200
+[08:03:05.7] Wakeup Level: 32/200
+[08:03:06.2] Wakeup Level: 32/200
+[08:03:06.8] Wakeup Level: 32/200
+[08:03:07.3] Wakeup Level: 32/200
+[08:03:07.9] Wakeup Level: 32/200
+[08:03:08.4] Wakeup Level: 32/200
+[08:03:09.0] Wakeup Level: 32/200
+[08:03:09.6] Wakeup Level: 32/200
+[08:03:10.1] Wakeup Level: 32/200
+[08:03:10.7] Wakeup Level: 32/200
+[08:03:11.2] Wakeup Level: 33/200
+[08:03:11.8] Wakeup Level: 33/200
+[08:03:12.4] Wakeup Level: 33/200
+[08:03:12.9] Wakeup Level: 33/200
+[08:03:13.5] Wakeup Level: 33/200
+[08:03:14.0] Wakeup Level: 33/200
+[08:03:14.6] Wakeup Level: 33/200
+[08:03:15.1] Wakeup Level: 33/200
+[08:03:15.7] Wakeup Level: 33/200
+[08:03:16.3] Wakeup Level: 34/200
+[08:03:16.8] Wakeup Level: 34/200
+[08:03:17.4] Wakeup Level: 34/200
+[08:03:17.9] Wakeup Level: 34/200
+[08:03:18.5] Wakeup Level: 34/200
+[08:03:19.0] Wakeup Level: 34/200
+[08:03:19.6] Wakeup Level: 34/200
+[08:03:20.2] Wakeup Level: 34/200
+[08:03:20.7] Wakeup Level: 34/200
+[08:03:21.3] Wakeup Level: 34/200
+[08:03:21.8] Wakeup Level: 34/200
+[08:03:22.4] Wakeup Level: 35/200
+[08:03:22.9] Wakeup Level: 35/200
+[08:03:23.5] Wakeup Level: 35/200
+[08:03:24.1] Wakeup Level: 35/200
+[08:03:24.6] Wakeup Level: 35/200
+[08:03:25.2] Wakeup Level: 35/200
+[08:03:25.7] Wakeup Level: 35/200
+[08:03:26.3] Wakeup Level: 35/200
+[08:03:26.9] Wakeup Level: 35/200
+[08:03:27.4] Wakeup Level: 35/200
+[08:03:28.0] Wakeup Level: 35/200
+[08:03:28.5] Wakeup Level: 36/200
+[08:03:29.1] Wakeup Level: 36/200
+[08:03:29.6] Wakeup Level: 36/200
+[08:03:30.2] Wakeup Level: 36/200
+[08:03:30.8] Wakeup Level: 36/200
+[08:03:31.3] Wakeup Level: 36/200
+[08:03:31.9] Wakeup Level: 36/200
+[08:03:32.4] Wakeup Level: 36/200
+[08:03:33.0] Wakeup Level: 36/200
+[08:03:33.5] Wakeup Level: 37/200
+[08:03:34.1] Wakeup Level: 37/200
+[08:03:34.7] Wakeup Level: 37/200
+[08:03:35.2] Wakeup Level: 37/200
+[08:03:35.8] Wakeup Level: 37/200
+[08:03:36.3] Wakeup Level: 37/200
+[08:03:36.9] Wakeup Level: 37/200
+[08:03:37.4] Wakeup Level: 37/200
+[08:03:38.0] Wakeup Level: 37/200
+[08:03:38.6] Wakeup Level: 37/200
+[08:03:39.1] Wakeup Level: 37/200
+[08:03:39.7] Wakeup Level: 38/200
+[08:03:40.2] Wakeup Level: 38/200
+[08:03:40.8] Wakeup Level: 38/200
+[08:03:41.4] Wakeup Level: 38/200
+[08:03:41.9] Wakeup Level: 38/200
+[08:03:42.5] Wakeup Level: 38/200
+[08:03:43.0] Wakeup Level: 38/200
+[08:03:43.6] Wakeup Level: 38/200
+[08:03:44.1] Wakeup Level: 38/200
+[08:03:44.7] Wakeup Level: 38/200
+[08:03:45.3] Wakeup Level: 39/200
+[08:03:45.8] Wakeup Level: 39/200
+[08:03:46.4] Wakeup Level: 39/200
+[08:03:46.9] Wakeup Level: 39/200
+[08:03:47.5] Wakeup Level: 39/200
+[08:03:48.0] Wakeup Level: 39/200
+[08:03:48.6] Wakeup Level: 39/200
+[08:03:49.2] Wakeup Level: 39/200
+[08:03:49.7] Wakeup Level: 39/200
+[08:03:50.3] Wakeup Level: 40/200
+[08:03:50.8] Wakeup Level: 40/200
+[08:03:51.4] Wakeup Level: 40/200
+[08:03:51.9] Wakeup Level: 40/200
+[08:03:52.5] Wakeup Level: 40/200
+[08:03:53.1] Wakeup Level: 40/200
+[08:03:53.6] Wakeup Level: 40/200
+[08:03:54.2] Wakeup Level: 40/200
+[08:03:54.7] Wakeup Level: 40/200
+[08:03:55.3] Wakeup Level: 40/200
+[08:03:55.9] Wakeup Level: 40/200
+[08:03:56.4] Wakeup Level: 41/200
+[08:03:57.0] Wakeup Level: 41/200
+[08:03:57.5] Wakeup Level: 41/200
+[08:03:58.1] Wakeup Level: 41/200
+[08:03:58.6] Wakeup Level: 41/200
+[08:03:59.2] Wakeup Level: 41/200
+[08:03:59.8] Wakeup Level: 41/200
+[08:04:00.3] Wakeup Level: 41/200
+[08:04:00.9] Wakeup Level: 41/200
+[08:04:01.4] Wakeup Level: 41/200
+[08:04:02.0] Wakeup Level: 41/200
+[08:04:02.5] Wakeup Level: 42/200
+[08:04:02.6] The Time is 08:04
+[08:04:03.1] Wakeup Level: 42/200
+[08:04:03.7] Wakeup Level: 42/200
+[08:04:04.2] Wakeup Level: 42/200
+[08:04:04.8] Wakeup Level: 42/200
+[08:04:05.3] Wakeup Level: 42/200
+[08:04:05.9] Wakeup Level: 42/200
+[08:04:06.4] Wakeup Level: 42/200
+[08:04:07.0] Wakeup Level: 42/200
+[08:04:07.6] Wakeup Level: 42/200
+[08:04:08.1] Wakeup Level: 42/200
+[08:04:08.7] Wakeup Level: 43/200
+[08:04:09.2] Wakeup Level: 43/200
+[08:04:09.8] Wakeup Level: 43/200
+[08:04:10.4] Wakeup Level: 43/200
+[08:04:10.9] Wakeup Level: 43/200
+[08:04:11.5] Wakeup Level: 43/200
+[08:04:12.0] Wakeup Level: 43/200
+[08:04:12.6] Wakeup Level: 43/200
+[08:04:13.1] Wakeup Level: 43/200
+[08:04:13.7] Wakeup Level: 44/200
+[08:04:14.3] Wakeup Level: 44/200
+[08:04:14.8] Wakeup Level: 44/200
+[08:04:15.4] Wakeup Level: 44/200
+[08:04:15.9] Wakeup Level: 44/200
+[08:04:16.5] Wakeup Level: 44/200
+[08:04:17.0] Wakeup Level: 44/200
+[08:04:17.6] Wakeup Level: 44/200
+[08:04:18.2] Wakeup Level: 44/200
+[08:04:18.7] Wakeup Level: 44/200
+[08:04:19.3] Wakeup Level: 45/200
+[08:04:19.8] Wakeup Level: 45/200
+[08:04:20.4] Wakeup Level: 45/200
+[08:04:21.0] Wakeup Level: 45/200
+[08:04:21.5] Wakeup Level: 45/200
+[08:04:22.1] Wakeup Level: 45/200
+[08:04:22.6] Wakeup Level: 45/200
+[08:04:23.2] Wakeup Level: 45/200
+[08:04:23.7] Wakeup Level: 45/200
+[08:04:24.3] Wakeup Level: 45/200
+[08:04:24.9] Wakeup Level: 45/200
+[08:04:25.4] Wakeup Level: 46/200
+[08:04:26.0] Wakeup Level: 46/200
+[08:04:26.5] Wakeup Level: 46/200
+[08:04:27.1] Wakeup Level: 46/200
+[08:04:27.6] Wakeup Level: 46/200
+[08:04:28.2] Wakeup Level: 46/200
+[08:04:28.8] Wakeup Level: 46/200
+[08:04:29.3] Wakeup Level: 46/200
+[08:04:29.9] Wakeup Level: 46/200
+[08:04:30.4] Wakeup Level: 47/200
+[08:04:31.0] Wakeup Level: 47/200
+[08:04:31.5] Wakeup Level: 47/200
+[08:04:32.1] Wakeup Level: 47/200
+[08:04:32.7] Wakeup Level: 47/200
+[08:04:33.2] Wakeup Level: 47/200
+[08:04:33.8] Wakeup Level: 47/200
+[08:04:34.3] Wakeup Level: 47/200
+[08:04:34.9] Wakeup Level: 47/200
+[08:04:35.5] Wakeup Level: 47/200
+[08:04:36.0] Wakeup Level: 47/200
+[08:04:36.6] Wakeup Level: 48/200
+[08:04:37.1] Wakeup Level: 48/200
+[08:04:37.7] Wakeup Level: 48/200
+[08:04:38.2] Wakeup Level: 48/200
+[08:04:38.8] Wakeup Level: 48/200
+[08:04:39.4] Wakeup Level: 48/200
+[08:04:39.9] Wakeup Level: 48/200
+[08:04:40.5] Wakeup Level: 48/200
+[08:04:41.0] Wakeup Level: 48/200
+[08:04:41.6] Wakeup Level: 48/200
+[08:04:42.1] Wakeup Level: 48/200
+[08:04:42.7] Wakeup Level: 49/200
+[08:04:43.3] Wakeup Level: 49/200
+[08:04:43.8] Wakeup Level: 49/200
+[08:04:44.4] Wakeup Level: 49/200
+[08:04:44.9] Wakeup Level: 49/200
+[08:04:45.5] Wakeup Level: 49/200
+[08:04:46.1] Wakeup Level: 49/200
+[08:04:46.6] Wakeup Level: 49/200
+[08:04:47.2] Wakeup Level: 49/200
+[08:04:47.7] Wakeup Level: 50/200
+[08:04:48.3] Wakeup Level: 50/200
+[08:04:48.8] Wakeup Level: 50/200
+[08:04:49.4] Wakeup Level: 50/200
+[08:04:50.0] Wakeup Level: 50/200
+[08:04:50.5] Wakeup Level: 50/200
+[08:04:51.1] Wakeup Level: 50/200
+[08:04:51.6] Wakeup Level: 50/200
+[08:04:52.2] Wakeup Level: 50/200
+[08:04:52.7] Wakeup Level: 50/200
+[08:04:53.3] Wakeup Level: 51/200
+[08:04:53.9] Wakeup Level: 51/200
+[08:04:54.4] Wakeup Level: 51/200
+[08:04:55.0] Wakeup Level: 51/200
+[08:04:55.5] Wakeup Level: 51/200
+[08:04:56.1] Wakeup Level: 51/200
+[08:04:56.6] Wakeup Level: 51/200
+[08:04:57.2] Wakeup Level: 51/200
+[08:04:57.8] Wakeup Level: 51/200
+[08:04:58.3] Wakeup Level: 51/200
+[08:04:58.9] Wakeup Level: 51/200
+[08:04:59.4] Wakeup Level: 52/200
+[08:05:00.0] Wakeup Level: 52/200
+[08:05:00.6] Wakeup Level: 52/200
+[08:05:01.1] Wakeup Level: 52/200
+[08:05:01.7] Wakeup Level: 52/200
+[08:05:02.2] Wakeup Level: 52/200
+[08:05:02.3] The Time is 08:05
+[08:05:02.8] Wakeup Level: 52/200
+[08:05:03.3] Wakeup Level: 52/200
+[08:05:03.9] Wakeup Level: 52/200
+[08:05:04.5] Wakeup Level: 52/200
+[08:05:05.0] Wakeup Level: 52/200
+[08:05:05.6] Wakeup Level: 53/200
+[08:05:06.1] Wakeup Level: 53/200
+[08:05:06.7] Wakeup Level: 53/200
+[08:05:07.2] Wakeup Level: 53/200
+[08:05:07.8] Wakeup Level: 53/200
+[08:05:08.4] Wakeup Level: 53/200
+[08:05:08.9] Wakeup Level: 53/200
+[08:05:09.5] Wakeup Level: 53/200
+[08:05:10.0] Wakeup Level: 53/200
+[08:05:10.6] Wakeup Level: 54/200
+[08:05:11.2] Wakeup Level: 54/200
+[08:05:11.7] Wakeup Level: 54/200
+[08:05:12.3] Wakeup Level: 54/200
+[08:05:12.8] Wakeup Level: 54/200
+[08:05:13.4] Wakeup Level: 54/200
+[08:05:13.9] Wakeup Level: 54/200
+[08:05:14.5] Wakeup Level: 54/200
+[08:05:15.1] Wakeup Level: 54/200
+[08:05:15.6] Wakeup Level: 54/200
+[08:05:16.2] Wakeup Level: 54/200
+[08:05:16.7] Wakeup Level: 55/200
+[08:05:17.3] Wakeup Level: 55/200
+[08:05:17.8] Wakeup Level: 55/200
+[08:05:18.4] Wakeup Level: 55/200
+[08:05:19.0] Wakeup Level: 55/200
+[08:05:19.5] Wakeup Level: 55/200
+[08:05:20.1] Wakeup Level: 55/200
+[08:05:20.6] Wakeup Level: 55/200
+[08:05:21.2] Wakeup Level: 55/200
+[08:05:21.8] Wakeup Level: 55/200
+[08:05:22.3] Wakeup Level: 56/200
+[08:05:22.9] Wakeup Level: 56/200
+[08:05:23.4] Wakeup Level: 56/200
+[08:05:24.0] Wakeup Level: 56/200
+[08:05:24.5] Wakeup Level: 56/200
+[08:05:25.1] Wakeup Level: 56/200
+[08:05:25.7] Wakeup Level: 56/200
+[08:05:26.2] Wakeup Level: 56/200
+[08:05:26.8] Wakeup Level: 56/200
+[08:05:27.3] Wakeup Level: 57/200
+[08:05:27.9] Wakeup Level: 57/200
+[08:05:28.4] Wakeup Level: 57/200
+[08:05:29.0] Wakeup Level: 57/200
+[08:05:29.6] Wakeup Level: 57/200
+[08:05:30.1] Wakeup Level: 57/200
+[08:05:30.7] Wakeup Level: 57/200
+[08:05:31.2] Wakeup Level: 57/200
+[08:05:31.8] Wakeup Level: 57/200
+[08:05:32.3] Wakeup Level: 57/200
+[08:05:32.9] Wakeup Level: 57/200
+[08:05:33.5] Wakeup Level: 58/200
+[08:05:34.0] Wakeup Level: 58/200
+[08:05:34.6] Wakeup Level: 58/200
+[08:05:35.1] Wakeup Level: 58/200
+[08:05:35.7] Wakeup Level: 58/200
+[08:05:36.3] Wakeup Level: 58/200
+[08:05:36.8] Wakeup Level: 58/200
+[08:05:37.4] Wakeup Level: 58/200
+[08:05:37.9] Wakeup Level: 58/200
+[08:05:38.5] Wakeup Level: 58/200
+[08:05:39.0] Wakeup Level: 58/200
+[08:05:39.6] Wakeup Level: 59/200
+[08:05:40.2] Wakeup Level: 59/200
+[08:05:40.7] Wakeup Level: 59/200
+[08:05:41.3] Wakeup Level: 59/200
+[08:05:41.8] Wakeup Level: 59/200
+[08:05:42.4] Wakeup Level: 59/200
+[08:05:42.9] Wakeup Level: 59/200
+[08:05:43.5] Wakeup Level: 59/200
+[08:05:44.1] Wakeup Level: 59/200
+[08:05:44.6] Wakeup Level: 60/200
+[08:05:45.2] Wakeup Level: 60/200
+[08:05:45.7] Wakeup Level: 60/200
+[08:05:46.3] Wakeup Level: 60/200
+[08:05:46.9] Wakeup Level: 60/200
+[08:05:47.4] Wakeup Level: 60/200
+[08:05:48.0] Wakeup Level: 60/200
+[08:05:48.5] Wakeup Level: 60/200
+[08:05:49.1] Wakeup Level: 60/200
+[08:05:49.6] Wakeup Level: 60/200
+[08:05:50.2] Wakeup Level: 60/200
+[08:05:50.8] Wakeup Level: 61/200
+[08:05:51.3] Wakeup Level: 61/200
+[08:05:51.9] Wakeup Level: 61/200
+[08:05:52.4] Wakeup Level: 61/200
+[08:05:53.0] Wakeup Level: 61/200
+[08:05:53.5] Wakeup Level: 61/200
+[08:05:54.1] Wakeup Level: 61/200
+[08:05:54.7] Wakeup Level: 61/200
+[08:05:55.2] Wakeup Level: 61/200
+[08:05:55.8] Wakeup Level: 61/200
+[08:05:56.3] Wakeup Level: 62/200
+[08:05:56.9] Wakeup Level: 62/200
+[08:05:57.4] Wakeup Level: 62/200
+[08:05:58.0] Wakeup Level: 62/200
+[08:05:58.6] Wakeup Level: 62/200
+[08:05:59.1] Wakeup Level: 62/200
+[08:05:59.7] Wakeup Level: 62/200
+[08:06:00.2] Wakeup Level: 62/200
+[08:06:00.8] Wakeup Level: 62/200
+[08:06:01.4] Wakeup Level: 62/200
+[08:06:01.9] Wakeup Level: 62/200
+[08:06:02.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:02.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:02.5] System: onIRmsg in [AlarmState]
+[08:06:02.6] System: Transition [AlarmState] -> [IdleState]
+[08:06:02.6]   Have a great Day!
+[08:06:10.3] The Time is 08:06
+[08:06:10.3] The Time is 08:06
+[08:06:13.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.1] System: onIRmsg in [IdleState]
+[08:06:14.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.4] System: onIRmsg in [IdleState]
+[08:06:14.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.7] System: onIRmsg in [IdleState]
+[08:06:14.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:14.9] System: onIRmsg in [IdleState]
+[08:06:15.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:15.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:15.4] System: onIRmsg in [IdleState]
+[08:06:15.4] System: Transition [IdleState] -> [LightMenu]
+[08:06:15.5] System: onIRmsg in [LightMenu]
+[08:06:15.5]     Set light to 30/31
+[08:06:15.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.1] System: onIRmsg in [LightMenu]
+[08:06:16.1]     Set light to 30/31
+[08:06:16.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.3] System: onIRmsg in [LightMenu]
+[08:06:16.4]     Set light to 30/31
+[08:06:16.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.6] System: onIRmsg in [LightMenu]
+[08:06:16.6]     Set light to 30/31
+[08:06:16.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:16.9] System: onIRmsg in [LightMenu]
+[08:06:16.9]     Set light to 30/31
+[08:06:17.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.2] System: onIRmsg in [LightMenu]
+[08:06:17.2]     Set light to 30/31
+[08:06:17.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.4] System: onIRmsg in [LightMenu]
+[08:06:17.5]     Set light to 29/31
+[08:06:17.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.7] System: onIRmsg in [LightMenu]
+[08:06:17.7]     Set light to 28/31
+[08:06:17.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:17.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.0] System: onIRmsg in [LightMenu]
+[08:06:18.0]     Set light to 27/31
+[08:06:18.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.2] System: onIRmsg in [LightMenu]
+[08:06:18.3]     Set light to 26/31
+[08:06:18.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.6] System: onIRmsg in [LightMenu]
+[08:06:18.6]     Set light to 26/31
+[08:06:18.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:18.8] System: onIRmsg in [LightMenu]
+[08:06:18.9]     Set light to 26/31
+[08:06:18.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.1] System: onIRmsg in [LightMenu]
+[08:06:19.2]     Set light to 26/31
+[08:06:19.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.4] System: onIRmsg in [LightMenu]
+[08:06:19.4]     Set light to 26/31
+[08:06:19.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.7] System: onIRmsg in [LightMenu]
+[08:06:19.7]     Set light to 25/31
+[08:06:19.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:19.9] System: onIRmsg in [LightMenu]
+[08:06:20.0]     Set light to 24/31
+[08:06:20.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.2] System: onIRmsg in [LightMenu]
+[08:06:20.2]     Set light to 23/31
+[08:06:20.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.5] System: onIRmsg in [LightMenu]
+[08:06:20.5]     Set light to 22/31
+[08:06:20.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.7] System: onIRmsg in [LightMenu]
+[08:06:20.8]     Set light to 21/31
+[08:06:20.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:20.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.0] System: onIRmsg in [LightMenu]
+[08:06:21.0]     Set light to 20/31
+[08:06:21.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.4] System: onIRmsg in [LightMenu]
+[08:06:21.4]     Set light to 20/31
+[08:06:21.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.6] System: onIRmsg in [LightMenu]
+[08:06:21.7]     Set light to 20/31
+[08:06:21.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:21.9] System: onIRmsg in [LightMenu]
+[08:06:21.9]     Set light to 20/31
+[08:06:22.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.2] System: onIRmsg in [LightMenu]
+[08:06:22.2]     Set light to 20/31
+[08:06:22.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.4] System: onIRmsg in [LightMenu]
+[08:06:22.5]     Set light to 19/31
+[08:06:22.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.7] System: onIRmsg in [LightMenu]
+[08:06:22.7]     Set light to 18/31
+[08:06:22.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:22.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.0] System: onIRmsg in [LightMenu]
+[08:06:23.0]     Set light to 17/31
+[08:06:23.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.2] System: onIRmsg in [LightMenu]
+[08:06:23.3]     Set light to 16/31
+[08:06:23.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.6] System: onIRmsg in [LightMenu]
+[08:06:23.6]     Set light to 16/31
+[08:06:23.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:23.8] System: onIRmsg in [LightMenu]
+[08:06:23.9]     Set light to 16/31
+[08:06:23.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.1] System: onIRmsg in [LightMenu]
+[08:06:24.2]     Set light to 16/31
+[08:06:24.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.4] System: onIRmsg in [LightMenu]
+[08:06:24.4]     Set light to 16/31
+[08:06:24.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.7] System: onIRmsg in [LightMenu]
+[08:06:24.7]     Set light to 15/31
+[08:06:24.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:24.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.0] System: onIRmsg in [LightMenu]
+[08:06:25.0]     Set light to 14/31
+[08:06:25.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.2] System: onIRmsg in [LightMenu]
+[08:06:25.3]     Set light to 13/31
+[08:06:25.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.5] System: onIRmsg in [LightMenu]
+[08:06:25.5]     Set light to 12/31
+[08:06:25.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.7] System: onIRmsg in [LightMenu]
+[08:06:25.8]     Set light to 11/31
+[08:06:25.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:25.9] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.0] System: onIRmsg in [LightMenu]
+[08:06:26.0]     Set light to 10/31
+[08:06:26.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.4] System: onIRmsg in [LightMenu]
+[08:06:26.4]     Set light to 10/31
+[08:06:26.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.6] System: onIRmsg in [LightMenu]
+[08:06:26.7]     Set light to 10/31
+[08:06:26.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:26.9] System: onIRmsg in [LightMenu]
+[08:06:27.0]     Set light to 10/31
+[08:06:27.0] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:27.1] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:27.2] System: onIRmsg in [LightMenu]
+[08:06:27.2]     Set light to 10/31
+[08:06:27.3] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:27.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:27.5] System: onIRmsg in [LightMenu]
+[08:06:27.5]     Set light to 9/31
+[08:06:27.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:27.6] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:27.7] System: onIRmsg in [LightMenu]
+[08:06:27.8]     Set light to 8/31
+[08:06:27.8] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:28.4] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:28.5] System: onIRmsg in [LightMenu]
+[08:06:28.5]     Set light to 7/31
+[08:06:28.5] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:28.7] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:06:28.7] System: onIRmsg in [LightMenu]
+[08:06:28.8]     Set light to 6/31
+[08:06:29.8] System: Transition [LightMenu] -> [IdleState]
+[08:06:29.8] The Time is 08:06
+[08:07:24.9] The Time is 08:07
+[08:08:06.2] The Time is 08:08
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [IdleState]
+[08:09:06.2] System: Transition [IdleState] -> [LightMenu]
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 5/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 5/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 5/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 4/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 3/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 2/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 1/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: onIRmsg in [LightMenu]
+[08:09:06.2]     Set light to 0/31
+[08:09:06.2] WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)
+[08:09:06.2] System: Transition [LightMenu] -> [IdleState]
+[08:09:06.2] The Time is 08:08
+[10:11:46.4] [SERIAL/DIRECT] INFO: DISCONNECTED
+
+[13:26:54.8] ***
+[13:26:54.8] *** DISCONNECT
+[13:26:54.8] *** time 13:26:54
+[13:26:54.8] ***
