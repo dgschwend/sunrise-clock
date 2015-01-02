@@ -4,7 +4,7 @@ Sunrise Clock
 [![Image of Alarm Clock from Wide Angle][i_wide]][wide]        
 [![Image of Top of Alarm Clock][i_top]][top]
 
-A beautiful, hand-made alarm clock that uses slowly increasing light and sound to wake you up.
+A hand-made alarm clock that uses slowly increasing light and sound to wake you up.
 
 [![Image of Low Light][i_li4]][li4] 
 [![Image of Low Light][i_li6]][li6] 
