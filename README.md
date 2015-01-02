@@ -16,7 +16,7 @@ A beautiful, hand-made alarm clock that uses slowly increasing light and sound t
 Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](http://github.com/mikaelpatel/Cosa).
 
   - White LED Matrix Display shows Time and Menus
-   [![Image of Display][i_disp]][disp]        
+   [![Image of Display][i_disp]][disp]    
    [![Image of Front][i_front]][front]
 
   - [![Image of IR Remote][i_remote]][remote]        IR recevier, Apple Remote (or others) for control
