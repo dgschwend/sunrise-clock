@@ -58,7 +58,7 @@ DIY PCB for Audio Volume Control. All cabling and setup still in prototype stage
 [![Image of Speaker inside][i_speaker_inside]][speaker_inside]
 [![Image of Tweeter][i_tweeter1]][tweeter1]
 
-Subwoofer Speaker uses the Glass Sphere as Body. Sealing of Glass Sphere using Silicone Ring. No apsorptive material in sphere yet... might improve frequency response!
+Subwoofer Speaker uses the Glass Sphere (from an IKEA Fado Lamp) as Body. Sealing of Glass Sphere using custom Silicone Ring. No apsorptive material in sphere yet... might improve frequency response!
 
 [![Image of MP3 Player][i_mp3]][mp3]
 [![Image of Dark State][i_dark]][dark]
