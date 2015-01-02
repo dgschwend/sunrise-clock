@@ -19,28 +19,29 @@ Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](h
    [![Image of Display][i_disp]][disp]        
    [![Image of Front][i_front]][front]
 
-  - [![Image of IR Remote][i_remote]][remote] IR recevier, Apple Remote (or others) for control
+  - [![Image of IR Remote][i_remote]][remote]        IR recevier, Apple Remote (or others) for control
 
-  - [![Image of Real-Time Clock][i_rtc]][rtc] TinyRTC Real-Time Clock (for time and alarms, battery-backup)
+  - [![Image of Real-Time Clock][i_rtc]][rtc]        TinyRTC Real-Time Clock (for time and alarms, battery-backup)
   
-  - [![Image of MP3 Player][i_mp3]][mp3] Cheap chinese MP3 Player for Wakeup Sound
+  - [![Image of MP3 Player][i_mp3]][mp3]        Cheap chinese MP3 Player for Wakeup Sound
 
-  - [![Image of AudioBoard][i_AudioBoard]][AudioBoard] Audio Volume Control (via LM1972)
+  - [![Image of AudioBoard][i_AudioBoard]][AudioBoard]        Audio Volume Control (via LM1972)
 
-  - [![Image of Audio AUX Port][i_audio]][audio] Audio Switch (external Jack input, internal MP3)
+  - [![Image of Audio AUX Port][i_audio]][audio]        Audio Switch (external Jack input, internal MP3)
 
-  - [![Image of Amplifier][i_amplifier]][amplifier] 2 x 3W Amplifier (PAM8403)
+  - [![Image of Amplifier][i_amplifier]][amplifier]        2 x 3W Amplifier (PAM8403)
 
-  - [![Image of Tweeter][i_tweeter]][tweeter] 2-way Speaker
-  - [![Image of Speaker inside][i_speaker_inside]][speaker_inside] Subwoofer included in glass sphere
+  - [![Image of Tweeter][i_tweeter]][tweeter]        2-way Speaker
+  - [![Image of Speaker inside][i_speaker_inside]][speaker_inside]        Subwoofer included in glass sphere
  
-  - [![Image of Cree LMH2 LED][i_cree_led]][cree_led] Cree LMH2 850-lumen LED with sunset dimming
+  - [![Image of Charge Port][i_charge]][charge]        2x USB Charger 5V @ 1.5A
 
-  - [![Image of Charge Port][i_charge]][charge] 2x USB Charger 5V @ 1.5A
+  - [![Image of Power and USB Config Port][i_power]][power]        USB Flash / Debug Port <--> FTDI <--> Arduino
 
-  - [![Image of Power and USB Config Port][i_power]][power] USB Debug Port <--> FTDI <--> Arduino
-  - USB Port for MP3 Player (access SD Card, change sound)
+  - [![Image of Cree LMH2 LED][i_cree_led]][cree_led]                     Cree LMH2 850-lumen LED with sunset dimming
+
   - old Apple iBook G4 Power Supply @24.8V, 1.8A for Power
+
 
 ## Under-the-Hood Impressions
 
