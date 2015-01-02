@@ -1,74 +1,65 @@
 Sunrise Clock
 =============
 
-[![overall view][i_wide]][wide] [![top view][i_top]][top]
+[![Image of Alarm Clock from Wide Angle][i_wide]][wide]        
+[![Image of Top of Alarm Clock][i_top]][top]
 
 A beautiful, hand-made alarm clock that uses slowly increasing light and sound to wake you up.
 
- [![low light][i_li6]][li6] [![medium light][i_li10]][li10] [![bright light][i_li23]][li23]
+[![Image of Low Light][i_li6]][li6] 
+[![Image of Medium Light][i_li10]][li10] 
+[![Image of Bright Light][i_li23]][li23]
 
 ### Project Features
 
 Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](http://github.com/mikaelpatel/Cosa).
 
   - White LED Matrix Display shows Time and Menus
+   [![Image of Display][i_disp]][disp]        
+   [![Image of Front][i_front]][front]
+
+  - [![Image of IR Remote][i_remote]][remote] IR recevier, Apple Remote (or others) for control
+
+  - [![Image of Real-Time Clock][i_rtc]][rtc] TinyRTC Real-Time Clock (for time and alarms, battery-backup)
   
-  [![display][i_disp]][disp]        [![front view][i_front]][front]
+  - [![Image of MP3 Player][i_mp3]][mp3] Cheap chinese MP3 Player for Wakeup Sound
 
-  - IR recevier and Apple Remote (others usable as well), for control and configuration
+  - [![Image of AudioBoard][i_AudioBoard]][AudioBoard] Audio Volume Control (via LM1972)
 
-  ![ir](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/remote.jpg)
-  - TinyRTC Real-Time Clock (for time and alarms, battery-backup)
+  - [![Image of Audio AUX Port][i_audio]][audio] Audio Switch (external Jack input, internal MP3)
 
-  ![rtc](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/rtc.jpg)
-  - Cheap chinese MP3 Player for Wakeup Sound
+  - [![Image of Amplifier][i_amplifier]][amplifier] 2 x 3W Amplifier (PAM8403)
 
-  ![mp3 player](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/mp3.jpg)
-  - Audio Volume Control (via LM1972)
+  - [![Image of Tweeter][i_tweeter]][tweeter] 2-way Speaker
+  - [![Image of Speaker inside][i_speaker_inside]][speaker_inside] Subwoofer included in glass sphere
+ 
+  - [![Image of Cree LMH2 LED][i_cree_led]][cree_led] Cree LMH2 850-lumen LED with sunset dimming
 
-  ![Audio Board](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/AudioBoard.jpg)
-  - Audio Switch (internal MP3 player/external AUX)
+  - [![Image of Charge Port][i_charge]][charge] 2x USB Charger 5V @ 1.5A
 
-  ![audio ports](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/audio.jpg)
-  - 2 x 3W Amplifier (PAM8403)
-
-  ![amplifier](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/amplifier.jpg)
-  - 2-way Speaker (subwoofer included in glass sphere)
-
-  ![tweeter](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/tweeter.jpg)
-  ![speaker inside](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/speaker_inside.jpg)
-  - Cree LMH2 850-lumen LED with sunset dimming
-
-  ![cree lmh2 led](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/cree_led.jpg)
-  - 2x USB Charger 5V @ 1.5A
-
-  ![usb charger ports](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/charge.jpg)
-  - USB Debug Port <--> FTDI <--> Arduino
+  - [![Image of Power and USB Config Port][i_power]][power] USB Debug Port <--> FTDI <--> Arduino
   - USB Port for MP3 Player (access SD Card, change sound)
   - old Apple iBook G4 Power Supply @24.8V, 1.8A for Power
 
-  ![power and usb config ports](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/power.jpg)
-
-
 ### Under-the-Hood Impressions
-![cables](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/cables.jpg)
-![Audio Board](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/AudioBoard.jpg)
-![dc-dc converter](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/dc-dc-conv.jpg)
+[![Image of Cables][i_cables]][cables]
+[![Image of AudioBoard][i_AudioBoard]][AudioBoard]
+[![Image of DC-DC Converter][i_dc-dc-conv]][dc-dc-conv]
 
-![amplifier](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/amplifier.jpg)
-![speaker inside](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/speaker_inside.jpg)
-![tweeter](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/tweeter1.jpg)
+[![Image of Amplifier][i_amplifier]][amplifier]
+[![Image of Speaker inside][i_speaker_inside]][speaker_inside]
+[![Image of Tweeter][i_tweeter1]][tweeter1]
 
-![dark](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/dark.jpg)
-![low light 4](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li4.jpg)
-![low light 5](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li5.jpg)
+[![Image of Dark State][i_dark]][dark]
+[![Image of Very Low Light][i_li4]][li4]
+[![Image of Low Light][i_li5]][li5]
 
-![low light 6](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li6.jpg)
-![medium light](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li10.jpg)
-![bright light](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li23.jpg)
+[![Image of Low Light][i_li6]][li6]
+[![Image of Medium Light][i_li10]][li10]
+[![Image of Bright Light][i_li23]][li23]
 
-### Hardware
-Schematics and Details to follow.
+### More Infos
+Contact me (e.g. open an issue) if you would like to know more. Right now, quite a few parts are not properly documented. If there's any interest, I may draw and publish the full Schematics. 
 
 [i_amplifier]: https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/amplifier.jpg
 [amplifier]: https://github.com/dgschwend/sunrise-clock/blob/master/Documentation/Photos/amplifier.jpg
