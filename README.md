@@ -6,6 +6,7 @@ Sunrise Clock
 
 A beautiful, hand-made alarm clock that uses slowly increasing light and sound to wake you up.
 
+[![Image of Low Light][i_li4]][li4] 
 [![Image of Low Light][i_li6]][li6] 
 [![Image of Medium Light][i_li10]][li10] 
 [![Image of Bright Light][i_li23]][li23]
@@ -45,19 +46,19 @@ Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](h
 
 ### Setup and Cabling
 [![Image of Cables][i_cables]][cables]
-[![Image of AudioBoard][i_AudioBoard]][AudioBoard]
 [![Image of DC-DC Converter][i_dc-dc-conv]][dc-dc-conv]
+[![Image of Real-Time Clock][i_rtc]][rtc]
 
 DIY PCB for Audio Volume Control. All cabling and setup still in prototype stage. I'm thinking about doing a small PCB for all the components... Audio Quality could certainly be improved with properly shielded 4-layer PCB.
 
 ### Audio Hardware
 [![Image of Amplifier][i_amplifier]][amplifier]
+[![Image of AudioBoard][i_AudioBoard]][AudioBoard]
 [![Image of Speaker inside][i_speaker_inside]][speaker_inside]
 [![Image of Tweeter][i_tweeter1]][tweeter1]
 
 Subwoofer Speaker uses the Glass Sphere as Body. Sealing of Glass Sphere using Silicone Ring. No apsorptive material in sphere yet... might improve frequency response!
 
-[![Image of Real-Time Clock][i_rtc]][rtc]
 [![Image of MP3 Player][i_mp3]][mp3]
 [![Image of Dark State][i_dark]][dark]
 
@@ -65,7 +66,6 @@ Subwoofer Speaker uses the Glass Sphere as Body. Sealing of Glass Sphere using S
 [![Image of Very Low Light][i_li4]][li4]
 [![Image of Low Light][i_li5]][li5]
 [![Image of Low Light][i_li6]][li6]
-
 [![Image of Medium Light][i_li10]][li10]
 [![Image of Bright Light][i_li23]][li23]
 
