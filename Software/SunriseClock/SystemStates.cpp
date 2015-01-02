@@ -615,15 +615,15 @@ void AlarmState::onLeave() {
     delay(100);
     
     sound_ctrl.stopMP3();
-    light_ctrl.setLevel(255);
+    if (light_ctrl.getLevel() < 100) light_ctrl.setLevel(100);
     
     cout << PSTR("  Have a great Day!") << endl;
     
     lcd << PSTR("\n HELLO");
-    delay(3000);
+    delay(1000);
 
     lcd << PSTR("\n MY &");
-    delay(4000);
+    delay(1500);
 
 };
 void AlarmState::onSecondTick() {
@@ -644,19 +644,25 @@ void AlarmState::onSecondTick() {
         return;
     }
     
-    // Slow Wakeup-Fade of Light and Sound
-    uint8_t  level = (200*seconds_passed)/wakeup_duration;
+    // Slow Wakeup-Fade of Light and Sound (0 to 100%)
+    uint8_t  level = (100*seconds_passed)/wakeup_duration;
 
-    light_ctrl.setLevel(level);      // 0 to 200 (of 240)
-    sound_ctrl.setVolume(level/8+20);   // 20 to 45 (of 80)
+    // First half slow, second half fast:
+    if (level < 50) {
+        light_ctrl.setLevel(level+level/2);  // 0 to 75 (of 255)
+        sound_ctrl.setVolume(level/5+25);    // 25 to 35 (of 80)
+    } else {
+        light_ctrl.setLevel((level-50)*3+75);  // 75 to 225 (of 255)
+        sound_ctrl.setVolume((level-50)/2+35); // 35 to 60 (of 80)
+    }
     
-    cout << PSTR("Wakeup Level: ") << level << PSTR("/200") << endl;
+    cout << PSTR("Wakeup Level: ") << level << PSTR("%") << endl;
     
     // Update Display (Time) if necessary
     time_keeper.printTimeIfChanged();
     
     // Add wakeup indicator (leftmost column)
-    lcd_ctrl.set_column(0, (1 << (level/25)));  // dot in px 0-7 (reached at 88%)
+    lcd_ctrl.set_column(0, (1 << (level/25)));  // dot in px 0-7 (max reached @88%)
 
 };
 
