@@ -1,22 +1,20 @@
 Sunrise Clock
 =============
 
-![top view](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/top.jpg)
-![wide view](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/wide.jpg)
+[![overall view][i_wide]][wide] [![top view][i_top]][top]
 
 A beautiful, hand-made alarm clock that uses slowly increasing light and sound to wake you up.
 
-![low light](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li6.jpg)
-![medium light](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li10.jpg)
-![bright light](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/li23.jpg)
+ [![low light][i_li6]][li6] [![medium light][i_li10]][li10] [![bright light][i_li23]][li23]
 
 ### Project Features
 
 Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](http://github.com/mikaelpatel/Cosa).
 
   - White LED Matrix Display shows Time and Menus
-  ![display](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/disp.jpg)
-  ![display](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/front.jpg)
+  
+  [![display][i_disp]][disp]        [![front view][i_front]][front]
+
   - IR recevier and Apple Remote (others usable as well), for control and configuration
 
   ![ir](https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/remote.jpg)
