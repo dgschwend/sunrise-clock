@@ -50,6 +50,9 @@ Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](h
 [![Image of Speaker inside][i_speaker_inside]][speaker_inside]
 [![Image of Tweeter][i_tweeter1]][tweeter1]
 
+[![Image of Real-Time Clock][i_rtc]][rtc]
+[![Image of MP3 Player][i_mp3]][mp3]
+
 [![Image of Dark State][i_dark]][dark]
 [![Image of Very Low Light][i_li4]][li4]
 [![Image of Low Light][i_li5]][li5]
