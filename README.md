@@ -10,7 +10,7 @@ A beautiful, hand-made alarm clock that uses slowly increasing light and sound t
 [![Image of Medium Light][i_li10]][li10] 
 [![Image of Bright Light][i_li23]][li23]
 
-### Project Features
+## Project Features
 
 Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](http://github.com/mikaelpatel/Cosa).
 
@@ -41,27 +41,31 @@ Built for an Arduino Pro Mini using the fantastic [Arduino Che Cosa framework](h
   - USB Port for MP3 Player (access SD Card, change sound)
   - old Apple iBook G4 Power Supply @24.8V, 1.8A for Power
 
-### Under-the-Hood Impressions
+## Under-the-Hood Impressions
+
 [![Image of Cables][i_cables]][cables]
 [![Image of AudioBoard][i_AudioBoard]][AudioBoard]
 [![Image of DC-DC Converter][i_dc-dc-conv]][dc-dc-conv]
+DIY PCB for Audio Volume Control. All cabling and setup still in prototype stage. I'm thinking about doing a small PCB for all the components... Audio Quality could certainly be improved with properly shielded 4-layer PCB.
 
 [![Image of Amplifier][i_amplifier]][amplifier]
 [![Image of Speaker inside][i_speaker_inside]][speaker_inside]
 [![Image of Tweeter][i_tweeter1]][tweeter1]
+Audio Hardware. Subwoofer Speaker uses the Glass Sphere as Body. Sealing of Glass Sphere using Silicone Ring. No apsorptive material in sphere yet... might improve frequency response!
 
 [![Image of Real-Time Clock][i_rtc]][rtc]
 [![Image of MP3 Player][i_mp3]][mp3]
-
 [![Image of Dark State][i_dark]][dark]
+
+### Dimming of LED
 [![Image of Very Low Light][i_li4]][li4]
 [![Image of Low Light][i_li5]][li5]
-
 [![Image of Low Light][i_li6]][li6]
+
 [![Image of Medium Light][i_li10]][li10]
 [![Image of Bright Light][i_li23]][li23]
 
-### More Infos
+## More Infos
 Contact me (e.g. open an issue) if you would like to know more. Right now, quite a few parts are not properly documented. If there's any interest, I may draw and publish the full Schematics. 
 
 [i_amplifier]: https://raw.githubusercontent.com/dgschwend/sunrise-clock/master/Documentation/Photos/Thumbs/amplifier.jpg
