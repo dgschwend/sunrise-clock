@@ -662,7 +662,7 @@ void AlarmState::onSecondTick() {
     time_keeper.printTimeIfChanged();
     
     // Add wakeup indicator (leftmost column)
-    lcd_ctrl.set_column(0, (1 << (level/25)));  // dot in px 0-7 (max reached @88%)
+    lcd_ctrl.set_column(0, (1 << (level/12)));  // dot in px 0-7 (max reached @84%)
 
 };
 
