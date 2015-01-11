@@ -96,8 +96,8 @@ IOStream        lcd(&lcd_ctrl);
 LuxMonitor lux_monitor(Board::A0, &lcd_ctrl, 4);
 
 // IR Receiver (green) on Pin D2 (EXT0)
-// Monitor IR receiver for 32bit packets, with threshold of 1500us
-IRMonitor  ir_monitor(Board::EXT0, &system, 48, 1500);
+// Monitor IR receiver for 32bit packets (48b for Denon Remote), with threshold of 1500us
+IRMonitor  ir_monitor(Board::EXT0, &system, 32, 1500);
 
 // DS1307 Real-Time Clock
 // Attached to I2C bus, Pins A4 (SDA) & A5 (SCL)

@@ -21,27 +21,27 @@
 
 extern IOStream cout;
 
-///@n Keymap for Apple Remote (bits=32)
-//const IRMonitor::keymap_t IRMonitor::m_keymap[] = {
-//    { 0xb90a87ee, SystemState::UP   },
-//    { 0xb90c87ee, SystemState::DOWN  },
-//    { 0xb90987ee, SystemState::LEFT  },
-//    { 0xb90687ee, SystemState::RIGHT },
-//    { 0xb90587ee, SystemState::PLAY  },
-//    { 0xb90387ee, SystemState::MENU  },
-//    { 0xFFFFFFFE, SystemState::REPEAT}
-//};
-
-//@n Keymap for DENON Remote (bits=48)
+//@n Keymap for Apple Remote (bits=32)
 const IRMonitor::keymap_t IRMonitor::m_keymap[] = {
-    { 0x13420150, SystemState::UP   },
-    { 0x03421150, SystemState::DOWN  },
-    { 0x33422150, SystemState::LEFT  },
-    { 0x23423150, SystemState::RIGHT },
-    { 0x53424150, SystemState::PLAY  },
-    { 0x15440150, SystemState::MENU  },
+    { 0xc00b87ee, SystemState::UP   },
+    { 0xc00d87ee, SystemState::DOWN  },
+    { 0xc00887ee, SystemState::LEFT  },
+    { 0xc00787ee, SystemState::RIGHT },
+    { 0xc00487ee, SystemState::PLAY  },
+    { 0xc00287ee, SystemState::MENU  },
     { 0xFFFFFFFE, SystemState::REPEAT}
 };
+
+////@n Keymap for DENON Remote (bits=48)
+//const IRMonitor::keymap_t IRMonitor::m_keymap[] = {
+//    { 0x13420150, SystemState::UP   },
+//    { 0x03421150, SystemState::DOWN  },
+//    { 0x33422150, SystemState::LEFT  },
+//    { 0x23423150, SystemState::RIGHT },
+//    { 0x53424150, SystemState::PLAY  },
+//    { 0x15440150, SystemState::MENU  },
+//    { 0xFFFFFFFE, SystemState::REPEAT}
+//};
 
 /////@n Dummy Keymap for no known Remote
 //const IRMonitor::keymap_t IRMonitor::m_keymap[] = {
@@ -152,7 +152,7 @@ IRMonitor::lookup(uint32_t code)
         }
     
     // WARNING: Enabling Trace in Interrupt will cause intermittent freezes!
-    // trace << PSTR("Error: Unknown IR code ") << hex << code << endl;
+     trace << PSTR("Error: Unknown IR code ") << hex << code << endl;
     
     return SystemState::ILLEGAL;
 }
@@ -187,12 +187,12 @@ IRMonitor::on_event(uint8_t type, uint16_t value) {
         //TRACE(m_samples[0]);
         
         reset();
-        
-        // WORKAROUND: HANDLE DOUBLE-MESSAGES SENT BY DENON REMOTE
-        static bool second = false;
-        cout << PSTR("WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)") << endl;
-        if (second) {second = false;} else {second = true; return;}
-        // END WORKAROUND
+//        
+//        // WORKAROUND: HANDLE DOUBLE-MESSAGES SENT BY DENON REMOTE
+//        static bool second = false;
+//        cout << PSTR("WARNING: DENON REMOTE UN-DOUBLING IN EFFECT (IRMonitor.cpp)") << endl;
+//        if (second) {second = false;} else {second = true; return;}
+//        // END WORKAROUND
 
         m_system_controller->onIRMessage((SystemState::IRMessage) value);
         
