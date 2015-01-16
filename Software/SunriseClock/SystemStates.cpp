@@ -375,9 +375,8 @@ void AlarmMenu::onIRMessage(IRMessage msg) {
         if (msg == RIGHT && new_alarm.seconds)
             setupState = setHours;
     }
-    
     // State: Set Hours
-    if (setupState == setHours) {
+    else if (setupState == setHours) {
         // Change Setting
         if (msg == UP) {
             if (new_alarm.hours < 23) new_alarm.hours++;
@@ -391,9 +390,8 @@ void AlarmMenu::onIRMessage(IRMessage msg) {
         if (msg == RIGHT) setupState = setMinutes;
         if (msg == LEFT)  setupState = setActive;
     }
-    
     // State: Set Minutes
-    if (setupState == setMinutes) {
+    else if (setupState == setMinutes) {
         // Change Setting
         if (msg == UP) {
             if (new_alarm.minutes < 59) new_alarm.minutes++;
@@ -537,7 +535,7 @@ void TimeMenu::onIRMessage(IRMessage msg) {
     }
     
     // State: Set Minutes
-    if (setupState == setMinutes) {
+    else if (setupState == setMinutes) {
         // Change Setting
         if (msg == UP) {
             if (new_time.minutes < 59) new_time.minutes++;

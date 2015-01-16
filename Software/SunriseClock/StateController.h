@@ -53,6 +53,9 @@ private:
     SystemState             *currentState;
     /// @brief Last received IR Message, retriggered on REPEAT msg.
     SystemState::IRMessage  last_IR_message;
+    // Holdoff for REPEAT in the first <REPEAT_HOLDOFF>*32 ms
+    static const uint16_t REPEAT_HOLDOFF = 6;
+    uint16_t num_repeats_received;
     
     /// @brief Interrupt sent periodically. Used to trigger SystemState::onSecondTick() and SystemState::onTimeout()
     virtual void run();

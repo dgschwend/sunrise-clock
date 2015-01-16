@@ -25,6 +25,7 @@
 #ifndef IRMonitor_h
 #define IRMonitor_h
 
+
 /// @brief    Infrared Receiver Monitor Class -- fetches, interprets and relays messages to SystemController.
 /// @details  Works with TSOP4838 and similar Infrared Receivers.
 /// @details  Once instantiated and initialized with .begin(), receives on Interrupt.

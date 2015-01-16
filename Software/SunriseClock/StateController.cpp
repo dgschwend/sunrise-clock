@@ -53,13 +53,22 @@ void StateController::onIRMessage(SystemState::IRMessage message) {
     
     cout << PSTR("System: onIRmsg in ") <<
     this->currentState->toString() << endl; // log message
-    millis_on_state_enter = RTC::millis(); // delay timeout
+    millis_on_state_enter = RTC::millis();  // delay timeout
     
-    // Recall last action on REPEAT.
-    if (message == SystemState::REPEAT) { message = last_IR_message; }
-    last_IR_message = message;  // remember last action.
+    // Recall last action on REPEAT, holdoff first few repeats
+    if (message == SystemState::REPEAT) {
+        // Got a REPEAT packet:
+        num_repeats_received++;
+        if (num_repeats_received < REPEAT_HOLDOFF) return;
+        message = last_IR_message;
+    } else {
+        // Not a REPEAT packet: Reset Counter
+        num_repeats_received = 0;
+    }
     
+    last_IR_message = message; // remember last action.
     currentState->onIRMessage(message);
+
 }
 
 void StateController::onTouch(SystemState::BUTTON button) {
