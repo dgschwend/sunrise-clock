@@ -58,13 +58,13 @@ public:
     /// @brief  Method is called periodically
     virtual void run();
     
-    // memory for filtered brightness (~0 to 800)
+    // memory for filtered brightness from sensor (~0 to 800)
     uint16_t brightness;
     
 private:
-    uint8_t   m_filterTau;
-    MAX7221   *m_lcd_ctrl;
-    AnalogPin m_opt101Pin;
+    const uint8_t   m_filterTau;
+    MAX7221         *m_lcd_ctrl;
+    AnalogPin       m_opt101Pin;
 };
 
 #endif

@@ -93,7 +93,7 @@ IOStream        lcd(&lcd_ctrl);
 
 // OPT101 Photodiode (blue) on Pin A0
 // Change brightness by (new-old)/filterTau every 128ms
-LuxMonitor lux_monitor(Board::A0, &lcd_ctrl, 4);
+LuxMonitor lux_monitor(Board::A0, &lcd_ctrl, 32);
 
 // IR Receiver (green) on Pin D2 (EXT0)
 // Monitor IR receiver for 32bit packets (48b for Denon Remote), with threshold of 1500us

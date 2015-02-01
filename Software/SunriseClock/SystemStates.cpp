@@ -325,6 +325,7 @@ void AlarmMenu::updateDisplay() {
             lcd_ctrl.set_cursor(2, 0);
             lcd << hh;
         }
+        // Print Separator
         lcd_ctrl.set_cursor(12, 0);
         lcd << ':';
         if  (! (setupState == setMinutes && is_blinking)) {
@@ -478,6 +479,7 @@ void TimeMenu::updateDisplay() {
         lcd_ctrl.set_cursor(2, 0);
         lcd << hh;
     }
+    // Print Separator
     lcd_ctrl.set_cursor(12, 0);
     lcd << ':';
     if  (! (setupState == setMinutes && is_blinking)) {
@@ -608,22 +610,28 @@ void AlarmState::onIRMessage(IRMessage msg) {
 void AlarmState::onTimeout() {}; // no timeout defined
 void AlarmState::onLeave() {
     
-    // On leaving: Turn light on, Sound off.
-    sound_ctrl.setVolume(0);
-    delay(100);
-    
-    sound_ctrl.stopMP3();
+    // Turn Light at least to 40%
     if (light_ctrl.getLevel() < 100) light_ctrl.setLevel(100);
     
-    cout << PSTR("  Have a great Day!") << endl;
+    // Turn Sound Off.
+    sound_ctrl.setVolume(0);
+    delay(100);
+    sound_ctrl.stopMP3();
     
+    // Deactivate Alarm
+    time_t alarm; time_keeper.getAlarm(alarm);
+    alarm.seconds = false; // deactivate
+    time_keeper.setAlarm(alarm);
+    
+    // Good Morning Message
+    cout << PSTR("  Have a great Day!") << endl;
     lcd << PSTR("\n HELLO");
     delay(1000);
-
-    lcd << PSTR("\n MY &");
+    lcd << PSTR("\n MY &"); // My <heart>
     delay(1500);
-
+    
 };
+
 void AlarmState::onSecondTick() {
     
     time_t now; time_keeper.getTime(now);
@@ -642,10 +650,29 @@ void AlarmState::onSecondTick() {
         return;
     }
     
+    
     // Slow Wakeup-Fade of Light and Sound (0 to 100%)
-    uint8_t  level = (100*seconds_passed)/wakeup_duration;
+    /*
+     *     ^ light
+     *     | +snd                                    .'
+     *     |                                       .'
+     *     |                                     .'
+     *     |                                   .'
+     *     |                                 .'
+     *     |                               .'
+     *     |                             .'
+     *     |                           .'
+     *     |                          '
+     *     |                    ...'''
+     *     |              ...'''
+     *     |        ...'''
+     *     |  ...'''                50                   100
+     *     -------------------------|---------------------|> level (= % of Time)
+     */
+    
+    // First half slow, second half fast (hand-tuned)
 
-    // First half slow, second half fast:
+    uint8_t  level = (100*seconds_passed)/wakeup_duration;
     if (level < 50) {
         light_ctrl.setLevel(level+level/2);  // 0 to 75 (of 255)
         sound_ctrl.setVolume(level/5+25);    // 25 to 35 (of 80)
